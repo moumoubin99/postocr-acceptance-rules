@@ -46,4 +46,4 @@ Source corpora are BLN600, ICDAR-2019 post-OCR correction data and the English i
 
 ## Versioned download
 
-Use the `v1.0.0` release archive and its SHA256 checksum for the version referenced in the submission. The release archive contains the same research files as the release commit. Verification of archive integrity does not establish exact historical model reproducibility or journal acceptance.
+Use the `v1.0.1` release archive and its SHA256 checksum for the version referenced in the submission. The release archive contains the same research files as the release commit. Verification of archive integrity does not establish exact historical model reproducibility or journal acceptance.

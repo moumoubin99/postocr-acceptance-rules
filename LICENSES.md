@@ -2,7 +2,7 @@
 
 ## Author-written code
 
-No open-source licence is granted for the authors' code in this release. Copyright remains with the authors. Public availability of a file does not by itself grant an unrestricted reuse licence.
+The authors have authorised the MIT licence for their own experiment and analysis code in `code/` and the root verification/reproduction Python scripts. See `code/LICENSE`. Third-party software and dependencies retain their own licences.
 
 ## Numerical evidence and source materials
 
