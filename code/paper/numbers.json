@@ -1,0 +1,5902 @@
+{
+ "abl.confmean.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "12 / 2 / 9"
+ },
+ "abl.confmean.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "10 / 2 / 11"
+ },
+ "abl.confmean.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "10 / 1 / 12"
+ },
+ "abl.confmean.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "23"
+ },
+ "abl.confmean.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "7 / 0 / 16"
+ },
+ "abl.confpluscap.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "23"
+ },
+ "abl.confpluscap.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "5 / 1 / 17"
+ },
+ "abl.docqe.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "abl.docqe.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "12 / 0 / 14"
+ },
+ "abl.errdetocronly.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "abl.errdetocronly.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "15 / 1 / 10"
+ },
+ "abl.kim.routerbetter": {
+  "source": "process/refine-logs/iter2",
+  "value": "18"
+ },
+ "abl.kimmin095.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "23"
+ },
+ "abl.kimmin095.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "18 / 0 / 5"
+ },
+ "abl.qeencoder.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "2 / 0 / 1"
+ },
+ "abl.qeencoder.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "3 / 0 / 0"
+ },
+ "abl.qeencoder.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "3 / 0 / 0"
+ },
+ "abl.qeencoder.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "3"
+ },
+ "abl.qeencoder.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "2 / 0 / 1"
+ },
+ "abl.routeralign.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "11 / 1 / 11"
+ },
+ "abl.routeralign.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "9 / 0 / 14"
+ },
+ "abl.routeralign.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "6 / 0 / 17"
+ },
+ "abl.routeralign.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "23"
+ },
+ "abl.routeralign.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "1 / 0 / 22"
+ },
+ "abl.routerconfqe.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "1 / 1 / 1"
+ },
+ "abl.routerconfqe.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "0 / 2 / 1"
+ },
+ "abl.routerconfqe.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "0 / 0 / 3"
+ },
+ "abl.routerconfqe.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "3"
+ },
+ "abl.routerconfqe.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "0 / 0 / 3"
+ },
+ "abl.routernodict.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "9 / 0 / 17"
+ },
+ "abl.routernodict.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "8 / 1 / 17"
+ },
+ "abl.routernodict.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "6 / 0 / 20"
+ },
+ "abl.routernodict.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "abl.routernodict.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "0 / 1 / 25"
+ },
+ "abl.routertext.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "11 / 0 / 15"
+ },
+ "abl.routertext.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "11 / 0 / 15"
+ },
+ "abl.routertext.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "6 / 0 / 20"
+ },
+ "abl.routertext.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "abl.routertext.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "2 / 0 / 24"
+ },
+ "abl.routerutil.b10": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "15 / 1 / 10"
+ },
+ "abl.routerutil.b25": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "14 / 1 / 11"
+ },
+ "abl.routerutil.b50": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "11 / 0 / 15"
+ },
+ "abl.routerutil.n": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "abl.routerutil.opt": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "6 / 1 / 19"
+ },
+ "always.harm.max": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "71.3"
+ },
+ "always.harm.min": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "3.4"
+ },
+ "always.worse": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "15"
+ },
+ "b25.acc.cap": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "35.5"
+ },
+ "b25.acc.conf": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "40.1"
+ },
+ "b25.acc.router": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "43.6"
+ },
+ "b25.rel.max": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "33.2"
+ },
+ "b25.rel.median": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "8.2"
+ },
+ "b25.rel.min": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "0.0"
+ },
+ "balcer.editrouter": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.1635"
+ },
+ "balcer.editsize": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.1633"
+ },
+ "balcer.segeditcap": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.1625"
+ },
+ "balcer.segrouter": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.1664"
+ },
+ "boot.B": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "10{,}000"
+ },
+ "edit.haslp.n": {
+  "source": "process/refine-logs/iter2/editlevel_*.json",
+  "value": "23"
+ },
+ "edit.mixed.max": {
+  "source": "process/refine-logs/iter2",
+  "value": "67.0"
+ },
+ "edit.mixed.mean": {
+  "source": "process/refine-logs/iter2/editlevel_*.json",
+  "value": "26.7"
+ },
+ "edit.mixed.min": {
+  "source": "process/refine-logs/iter2",
+  "value": "9.7"
+ },
+ "edit.oracle.exhaustive.min": {
+  "source": "process/refine-logs/iter2/editlevel_*.json",
+  "value": "40.1"
+ },
+ "en.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0029"
+ },
+ "en.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "en.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 5 / 10"
+ },
+ "en.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "en.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "en.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 5 / 10"
+ },
+ "en.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "en.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "en.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-NL"
+ },
+ "en.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "en.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 4 / 9"
+ },
+ "en.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "en.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 2 / 3"
+ },
+ "en.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "en.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 6 / 9"
+ },
+ "en.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "en.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "en.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, impresso, Overproof"
+ },
+ "en.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0033"
+ },
+ "en.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "en.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 4 / 9"
+ },
+ "en.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "en.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "en.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 4 / 8"
+ },
+ "en.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "en.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-ES, ICDAR-NL"
+ },
+ "en.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "en.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 4 / 8"
+ },
+ "en.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "en.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "en.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 3 / 3"
+ },
+ "en.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 4 / 7"
+ },
+ "en.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "en.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "en.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, Overproof"
+ },
+ "en.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0036"
+ },
+ "en.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "en.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 3 / 7"
+ },
+ "en.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "en.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "en.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 3 / 7"
+ },
+ "en.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "en.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "en.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-ES, ICDAR-NL"
+ },
+ "en.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "en.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 3 / 7"
+ },
+ "en.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "en.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "en.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 3 / 3"
+ },
+ "en.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "en.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 4 / 6"
+ },
+ "en.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "en.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "en.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, Overproof"
+ },
+ "en.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0029"
+ },
+ "en.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "en.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 0 / 11"
+ },
+ "en.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "en.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "en.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "en.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 0 / 11"
+ },
+ "en.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "en.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "en.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "en.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "en.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "en.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 0 / 11"
+ },
+ "en.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "en.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "en.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "en.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 0 / 4"
+ },
+ "en.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "en.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "en.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "en.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 2 / 6"
+ },
+ "en.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "en.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "en.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "en.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-DE, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "es.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0000"
+ },
+ "es.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 5 / 10"
+ },
+ "es.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "es.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "es.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 5 / 10"
+ },
+ "es.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "es.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "es.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-FR, ICDAR-NL"
+ },
+ "es.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "es.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 5 / 9"
+ },
+ "es.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "es.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "es.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "es.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 3 / 3"
+ },
+ "es.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 7 / 5"
+ },
+ "es.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "es.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "es.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "es.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, Overproof"
+ },
+ "es.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0000"
+ },
+ "es.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 4 / 9"
+ },
+ "es.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "es.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "es.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 4 / 7"
+ },
+ "es.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "es.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "es.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-FR, ICDAR-NL"
+ },
+ "es.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "es.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 4 / 7"
+ },
+ "es.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "es.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "es.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 3 / 2"
+ },
+ "es.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17 / 6 / 3"
+ },
+ "es.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "es.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "es.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, impresso, Overproof"
+ },
+ "es.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0001"
+ },
+ "es.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 4 / 9"
+ },
+ "es.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "es.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "es.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 4 / 9"
+ },
+ "es.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "es.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "es.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL"
+ },
+ "es.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "es.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 4 / 9"
+ },
+ "es.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "es.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 4 / 2"
+ },
+ "es.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "es.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 4 / 7"
+ },
+ "es.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "es.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "es.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "es.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi, Overproof"
+ },
+ "es.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0026"
+ },
+ "es.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "es.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 1 / 11"
+ },
+ "es.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "es.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "es.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 1 / 11"
+ },
+ "es.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "es.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "es.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-FR, ICDAR-ES"
+ },
+ "es.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "es.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 1 / 11"
+ },
+ "es.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "es.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "es.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "es.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 2 / 1"
+ },
+ "es.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "es.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "es.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18 / 2 / 6"
+ },
+ "es.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "es.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "es.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "es.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "es23.b10": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "10 / 5 / 8"
+ },
+ "es23.b10.n": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "23"
+ },
+ "es23.b25": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "13 / 4 / 6"
+ },
+ "es23.b25.n": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "23"
+ },
+ "es23.b50": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "11 / 4 / 8"
+ },
+ "es23.b50.n": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "23"
+ },
+ "es23.opt": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "12 / 1 / 10"
+ },
+ "es23.opt.n": {
+  "source": "process/refine-logs/iter2/robust/robust_*.json",
+  "value": "23"
+ },
+ "ex.b8bln.always": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.0484"
+ },
+ "ex.b8bln.never": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.0714"
+ },
+ "ex.b8de.always": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.1346"
+ },
+ "ex.b8de.never": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.2562"
+ },
+ "ex.byt5en.always": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.3738"
+ },
+ "ex.byt5en.never": {
+  "source": "process/refine-logs/iter2",
+  "value": "0.2128"
+ },
+ "ez.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0101"
+ },
+ "ez.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "ez.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23 / 0 / 3"
+ },
+ "ez.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "ez.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "ez.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "22 / 0 / 4"
+ },
+ "ez.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "ez.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "22"
+ },
+ "ez.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "ez.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "ez.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 4"
+ },
+ "ez.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "ez.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "ez.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 0 / 1"
+ },
+ "ez.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "ez.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23 / 0 / 3"
+ },
+ "ez.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "ez.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "ez.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-ES, ICDAR-NL, ICDAR-multi, impresso, Overproof"
+ },
+ "ez.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0108"
+ },
+ "ez.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "ez.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21 / 0 / 5"
+ },
+ "ez.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "ez.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21"
+ },
+ "ez.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21 / 0 / 5"
+ },
+ "ez.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "ez.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21"
+ },
+ "ez.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "ez.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "ez.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19 / 0 / 5"
+ },
+ "ez.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "ez.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19"
+ },
+ "ez.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 0 / 2"
+ },
+ "ez.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "ez.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "ez.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23 / 0 / 3"
+ },
+ "ez.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "ez.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "ez.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-NL, ICDAR-multi, impresso, Overproof"
+ },
+ "ez.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0085"
+ },
+ "ez.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "ez.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 1 / 5"
+ },
+ "ez.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "ez.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "ez.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 6"
+ },
+ "ez.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "ez.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "ez.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-FR"
+ },
+ "ez.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "ez.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18 / 0 / 6"
+ },
+ "ez.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "ez.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "ez.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "ez.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 2"
+ },
+ "ez.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "ez.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "ez.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21 / 1 / 4"
+ },
+ "ez.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "ez.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21"
+ },
+ "ez.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "ez.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0007"
+ },
+ "ez.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "ez.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "ez.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 1 / 12"
+ },
+ "ez.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "ez.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "ez.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 1 / 11"
+ },
+ "ez.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "ez.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "ez.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-FR, impresso"
+ },
+ "ez.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "ez.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 1 / 11"
+ },
+ "ez.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "ez.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "ez.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 2 / 3"
+ },
+ "ez.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "ez.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "ez.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "ez.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 1 / 9"
+ },
+ "ez.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "ez.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "ez.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "ez.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "fr.dropped": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "27"
+ },
+ "fr.ntest": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1676"
+ },
+ "grid.distinct.confmin.min": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "46"
+ },
+ "grid.distinct.editcap.min": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "23"
+ },
+ "harm.b10.confmin.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5.6"
+ },
+ "harm.b10.confmin.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.03"
+ },
+ "harm.b10.confmin.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "harm.b10.confmin.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "harm.b10.editcap.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6.9"
+ },
+ "harm.b10.editcap.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.99"
+ },
+ "harm.b10.editcap.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b10.editcap.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "harm.b10.editrouter.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3.0"
+ },
+ "harm.b10.editrouter.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.01"
+ },
+ "harm.b10.editrouter.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b10.editrouter.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "harm.b10.editsize.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3.4"
+ },
+ "harm.b10.editsize.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.78"
+ },
+ "harm.b10.editsize.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b10.editsize.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "harm.b10.router.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4.1"
+ },
+ "harm.b10.router.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.78"
+ },
+ "harm.b10.router.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b10.router.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "harm.b25.confmin.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2.4"
+ },
+ "harm.b25.confmin.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.84"
+ },
+ "harm.b25.confmin.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "harm.b25.confmin.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "harm.b25.editcap.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2.9"
+ },
+ "harm.b25.editcap.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.07"
+ },
+ "harm.b25.editcap.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b25.editcap.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "harm.b25.editrouter.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.8"
+ },
+ "harm.b25.editrouter.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.98"
+ },
+ "harm.b25.editrouter.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b25.editrouter.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "harm.b25.editsize.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2.0"
+ },
+ "harm.b25.editsize.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.88"
+ },
+ "harm.b25.editsize.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b25.editsize.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "harm.b25.router.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.7"
+ },
+ "harm.b25.router.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.86"
+ },
+ "harm.b25.router.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b25.router.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "harm.b50.confmin.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.5"
+ },
+ "harm.b50.confmin.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.97"
+ },
+ "harm.b50.confmin.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "harm.b50.confmin.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "harm.b50.editcap.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.5"
+ },
+ "harm.b50.editcap.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.03"
+ },
+ "harm.b50.editcap.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b50.editcap.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "harm.b50.editrouter.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.6"
+ },
+ "harm.b50.editrouter.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.78"
+ },
+ "harm.b50.editrouter.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b50.editrouter.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "harm.b50.editsize.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.7"
+ },
+ "harm.b50.editsize.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.99"
+ },
+ "harm.b50.editsize.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b50.editsize.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "harm.b50.router.max": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1.3"
+ },
+ "harm.b50.router.med": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.84"
+ },
+ "harm.b50.router.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "harm.b50.router.over": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "lc.b25.aboveocr.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "1"
+ },
+ "lc.b25.cap.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.b25.cap.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.b25.cap.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "8"
+ },
+ "lc.b25.cap.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.b25.cap.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.b25.cap.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.cap.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.conf.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.b25.conf.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.conf.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.b25.conf.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.conf.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.b25.conf.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "5"
+ },
+ "lc.b25.conf.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.b25.conf.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.conf.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.b25.conf.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.b25.conf.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.conf.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.ocr.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.ocr.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.ocr.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.ocr.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.ocr.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.b25.ocr.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.b25.ocr.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.b25.ocr.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.ocr.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.b25.ocr.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.b25.ocr.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.ocr.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.b25.relsd.cap.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "2.2"
+ },
+ "lc.b25.relsd.cap.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "5.1"
+ },
+ "lc.b25.relsd.router.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "2.8"
+ },
+ "lc.b25.relsd.router.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6.2"
+ },
+ "lc.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.aboveocr.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.cap.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.opt.cap.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.cap.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.cap.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.cap.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.cap.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.opt.cap.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "2"
+ },
+ "lc.opt.cap.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.cap.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.cap.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.cap.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "5"
+ },
+ "lc.opt.cap.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.conf.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.conf.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.opt.conf.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.conf.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.opt.conf.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.opt.conf.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "5"
+ },
+ "lc.opt.conf.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "2"
+ },
+ "lc.opt.conf.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.opt.conf.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.opt.conf.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "3"
+ },
+ "lc.opt.conf.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.opt.conf.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.opt.ocr.10": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "9"
+ },
+ "lc.opt.ocr.10.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.ocr.20": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "8"
+ },
+ "lc.opt.ocr.20.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.ocr.40": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.opt.ocr.40.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.opt.ocr.5": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "6"
+ },
+ "lc.opt.ocr.5.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.ocr.80": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.ocr.80.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "4"
+ },
+ "lc.opt.ocr.all": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.opt.ocr.all.n": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "10"
+ },
+ "lc.reps": {
+  "source": "process/refine-logs/iter2/extra5/lc_*.json",
+  "value": "20"
+ },
+ "lolo.always": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "8 / 0 / 2"
+ },
+ "lolo.cap": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "0 / 1 / 9"
+ },
+ "lolo.cap25": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "4 / 1 / 5"
+ },
+ "lolo.conf": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "1 / 1 / 8"
+ },
+ "lolo.indomain": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "1 / 1 / 8"
+ },
+ "lolo.mean.gap": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "$-$0.0035"
+ },
+ "lolo.n": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "10"
+ },
+ "lolo.never": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "5 / 1 / 4"
+ },
+ "lolo.nodict.indomain": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "3 / 2 / 5"
+ },
+ "lolo.nodict.mean.gap": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "$-$0.0020"
+ },
+ "lolo.worse.than.never": {
+  "source": "process/refine-logs/iter3/lolo.json",
+  "value": "2"
+ },
+ "ltt.abstain.cap.a02": {
+  "source": "process/refine-logs/iter2",
+  "value": "26"
+ },
+ "ltt.abstain.cap.a05": {
+  "source": "process/refine-logs/iter2",
+  "value": "17"
+ },
+ "ltt.abstain.cap.a1": {
+  "source": "process/refine-logs/iter2",
+  "value": "14"
+ },
+ "ltt.abstain.router.a02": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "ltt.abstain.router.a05": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "16"
+ },
+ "ltt.abstain.router.a1": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "14"
+ },
+ "ltt.mindocs.a02": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "114"
+ },
+ "ltt.mindocs.a05": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "45"
+ },
+ "ltt.mindocs.a1": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "22"
+ },
+ "ltt.ncal.max": {
+  "source": "process/refine-logs/iter2",
+  "value": "102"
+ },
+ "ltt.ncal.min": {
+  "source": "process/refine-logs/iter2",
+  "value": "5"
+ },
+ "ltt.splits": {
+  "source": "process/refine-logs/iter2",
+  "value": "520"
+ },
+ "ltt.toofew.a02": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "ltt.toofew.a05": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "16"
+ },
+ "ltt.toofew.a1": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "14"
+ },
+ "ltt.viol.a02": {
+  "source": "process/refine-logs/iter2",
+  "value": "0"
+ },
+ "ltt.viol.a05": {
+  "source": "process/refine-logs/iter2",
+  "value": "0"
+ },
+ "ltt.viol.a1": {
+  "source": "process/refine-logs/iter2",
+  "value": "1"
+ },
+ "ltt.violrc.a02": {
+  "source": "process/refine-logs/iter2",
+  "value": "0"
+ },
+ "ltt.violrc.a05": {
+  "source": "process/refine-logs/iter2",
+  "value": "0"
+ },
+ "ltt.violrc.a1": {
+  "source": "process/refine-logs/iter2",
+  "value": "0"
+ },
+ "lttfull.cap.a02.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "25"
+ },
+ "lttfull.cap.a02.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0.0"
+ },
+ "lttfull.cap.a02.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "26"
+ },
+ "lttfull.cap.a02.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "lttfull.cap.a05.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "14"
+ },
+ "lttfull.cap.a05.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "18.3"
+ },
+ "lttfull.cap.a05.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "26"
+ },
+ "lttfull.cap.a05.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "lttfull.cap.a1.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "4"
+ },
+ "lttfull.cap.a1.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "33.2"
+ },
+ "lttfull.cap.a1.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "26"
+ },
+ "lttfull.cap.a1.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "lttfull.conf.a02.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "22"
+ },
+ "lttfull.conf.a02.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0.0"
+ },
+ "lttfull.conf.a02.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "23"
+ },
+ "lttfull.conf.a02.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "lttfull.conf.a05.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "12"
+ },
+ "lttfull.conf.a05.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "31.3"
+ },
+ "lttfull.conf.a05.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "23"
+ },
+ "lttfull.conf.a05.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "lttfull.conf.a1.abstain": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "3"
+ },
+ "lttfull.conf.a1.acc": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "38.9"
+ },
+ "lttfull.conf.a1.n": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "23"
+ },
+ "lttfull.conf.a1.viol": {
+  "source": "process/refine-logs/iter2/extra_fulldev.json",
+  "value": "0"
+ },
+ "match.b10.capharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 6"
+ },
+ "match.b10.capharm.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0111"
+ },
+ "match.b10.routerharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21 / 0 / 5"
+ },
+ "match.b25.capharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "21 / 0 / 5"
+ },
+ "match.b25.capharm.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0119"
+ },
+ "match.b25.routerharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23 / 0 / 3"
+ },
+ "match.b50.capharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 0 / 10"
+ },
+ "match.b50.capharm.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0076"
+ },
+ "match.b50.routerharm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19 / 0 / 7"
+ },
+ "meancer.always": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1309"
+ },
+ "meancer.cap": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1081"
+ },
+ "meancer.cascade": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1070"
+ },
+ "meancer.confmin": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1187"
+ },
+ "meancer.editrouter": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1068"
+ },
+ "meancer.editsize": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1075"
+ },
+ "meancer.never": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1262"
+ },
+ "meancer.oracleedit": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.0974"
+ },
+ "meancer.oracleseg": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1024"
+ },
+ "meancer.router": {
+  "source": "process/refine-logs/iter2/ledger_*.json, editlevel_*.json",
+  "value": "0.1094"
+ },
+ "n.cfg": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "26"
+ },
+ "n.corpora": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "n.disjoint": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "new.always.worse": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "13"
+ },
+ "new.en.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0026"
+ },
+ "new.en.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.en.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.en.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.en.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0035"
+ },
+ "new.en.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.en.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.en.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.en.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0035"
+ },
+ "new.en.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.en.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.en.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.en.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0035"
+ },
+ "new.en.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.en.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.en.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.es.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0029"
+ },
+ "new.es.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "14 / 0 / 1"
+ },
+ "new.es.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.es.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.es.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0038"
+ },
+ "new.es.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "14 / 0 / 1"
+ },
+ "new.es.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.es.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.es.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0037"
+ },
+ "new.es.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "13 / 0 / 2"
+ },
+ "new.es.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.es.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.es.opt": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "13 / 0 / 2"
+ },
+ "new.es.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0037"
+ },
+ "new.es.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "13 / 0 / 2"
+ },
+ "new.es.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.es.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.ez.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0081"
+ },
+ "new.ez.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "13 / 0 / 2"
+ },
+ "new.ez.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.ez.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.ez.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0077"
+ },
+ "new.ez.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "12 / 0 / 3"
+ },
+ "new.ez.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.ez.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.ez.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0037"
+ },
+ "new.ez.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.ez.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.ez.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.ez.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0034"
+ },
+ "new.ez.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.ez.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.ez.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 0"
+ },
+ "new.n": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "15"
+ },
+ "new.rc.b10": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "12 / 0 / 3"
+ },
+ "new.rc.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0052"
+ },
+ "new.rc.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "12 / 0 / 3"
+ },
+ "new.rc.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rc.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rc.b25": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.rc.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0045"
+ },
+ "new.rc.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.rc.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rc.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rc.b50": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rc.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0035"
+ },
+ "new.rc.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rc.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rc.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.rc.opt": {
+  "source": "process/refine-logs/iter3/newcfg/*.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rc.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0030"
+ },
+ "new.rc.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rc.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rc.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.rm.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0040"
+ },
+ "new.rm.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rm.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rm.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rm.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0047"
+ },
+ "new.rm.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rm.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rm.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rm.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0046"
+ },
+ "new.rm.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rm.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rm.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rm.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0046"
+ },
+ "new.rm.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.rm.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rm.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rp.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0033"
+ },
+ "new.rp.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "9 / 0 / 6"
+ },
+ "new.rp.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rp.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.rp.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0040"
+ },
+ "new.rp.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.rp.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rp.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rp.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0038"
+ },
+ "new.rp.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.rp.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rp.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.rp.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0036"
+ },
+ "new.rp.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "11 / 0 / 4"
+ },
+ "new.rp.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.rp.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.tc.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0041"
+ },
+ "new.tc.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "10 / 0 / 5"
+ },
+ "new.tc.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tc.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 1 / 0"
+ },
+ "new.tc.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0040"
+ },
+ "new.tc.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "9 / 0 / 6"
+ },
+ "new.tc.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tc.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 1 / 0"
+ },
+ "new.tc.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0032"
+ },
+ "new.tc.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "8 / 0 / 7"
+ },
+ "new.tc.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tc.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.tc.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0027"
+ },
+ "new.tc.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "7 / 0 / 8"
+ },
+ "new.tc.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tc.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.tp.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0022"
+ },
+ "new.tp.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "6 / 0 / 9"
+ },
+ "new.tp.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tp.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.tp.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0036"
+ },
+ "new.tp.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "9 / 0 / 6"
+ },
+ "new.tp.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tp.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.tp.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0035"
+ },
+ "new.tp.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "9 / 0 / 6"
+ },
+ "new.tp.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tp.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.tp.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0033"
+ },
+ "new.tp.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "8 / 0 / 7"
+ },
+ "new.tp.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.tp.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "4 / 0 / 1"
+ },
+ "new.zc.b10.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$+$0.0000"
+ },
+ "new.zc.b10.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 2 / 10"
+ },
+ "new.zc.b10.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.zc.b10.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "1 / 1 / 3"
+ },
+ "new.zc.b25.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0006"
+ },
+ "new.zc.b25.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "5 / 0 / 10"
+ },
+ "new.zc.b25.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.zc.b25.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "1 / 0 / 4"
+ },
+ "new.zc.b50.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0036"
+ },
+ "new.zc.b50.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "8 / 0 / 7"
+ },
+ "new.zc.b50.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.zc.b50.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "new.zc.opt.delta": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "$-$0.0032"
+ },
+ "new.zc.opt.holm": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "8 / 0 / 7"
+ },
+ "new.zc.opt.n": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "15"
+ },
+ "new.zc.opt.pool": {
+  "source": "process/refine-logs/iter3/newcfg/robust_summary.json",
+  "value": "3 / 0 / 2"
+ },
+ "nolp.maxabs": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0.0036"
+ },
+ "nolp.meanchange": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0001"
+ },
+ "nolp.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "opt.acc.cap": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "76.6"
+ },
+ "opt.acc.conf": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "70.9"
+ },
+ "opt.acc.router": {
+  "source": "process/refine-logs/iter2/ledger_*.json",
+  "value": "68.1"
+ },
+ "rank.B": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "10000"
+ },
+ "rank.cap": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1170"
+ },
+ "rank.conf.first": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1160"
+ },
+ "rank.conf.n": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "23"
+ },
+ "rank.conf.second": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1215"
+ },
+ "rank.conf.wl": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "14 / 0 / 9"
+ },
+ "rank.first": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1097"
+ },
+ "rank.n": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "26"
+ },
+ "rank.router": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1097"
+ },
+ "rank.router.lower": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "24"
+ },
+ "rank.router.lower.conf": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "21"
+ },
+ "rank.router.lower.text": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "24"
+ },
+ "rank.second": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1170"
+ },
+ "rank.text.first": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1111"
+ },
+ "rank.text.n": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "26"
+ },
+ "rank.text.second": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "0.1170"
+ },
+ "rank.text.wl": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "16 / 0 / 10"
+ },
+ "rank.wl": {
+  "source": "process/refine-logs/iter2/extra5/rank_*.json",
+  "value": "19 / 0 / 7"
+ },
+ "rc.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0097"
+ },
+ "rc.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18 / 0 / 8"
+ },
+ "rc.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "rc.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18 / 0 / 8"
+ },
+ "rc.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "rc.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rc.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "rc.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 0 / 8"
+ },
+ "rc.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rc.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 0 / 1"
+ },
+ "rc.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rc.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 6"
+ },
+ "rc.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rc.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "rc.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rc.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0110"
+ },
+ "rc.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 6"
+ },
+ "rc.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rc.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "rc.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19 / 0 / 7"
+ },
+ "rc.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19"
+ },
+ "rc.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rc.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "rc.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17 / 0 / 7"
+ },
+ "rc.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "rc.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 0 / 0"
+ },
+ "rc.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rc.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20 / 0 / 6"
+ },
+ "rc.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rc.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "20"
+ },
+ "rc.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL, ICDAR-multi, impresso, Overproof"
+ },
+ "rc.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0079"
+ },
+ "rc.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 0 / 11"
+ },
+ "rc.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rc.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "rc.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 0 / 11"
+ },
+ "rc.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rc.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "rc.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rc.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "rc.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 11"
+ },
+ "rc.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rc.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "rc.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 0 / 1"
+ },
+ "rc.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rc.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rc.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 0 / 10"
+ },
+ "rc.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rc.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "rc.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rc.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rc.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0013"
+ },
+ "rc.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rc.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 2 / 17"
+ },
+ "rc.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "rc.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 2 / 17"
+ },
+ "rc.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "rc.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rc.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-EN, ICDAR-DE"
+ },
+ "rc.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "rc.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 2 / 16"
+ },
+ "rc.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rc.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rc.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2 / 2 / 5"
+ },
+ "rc.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rc.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rc.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 6 / 11"
+ },
+ "rc.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rc.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rc.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rc.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi"
+ },
+ "rm.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0064"
+ },
+ "rm.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "rm.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rm.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rm.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rm.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rm.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 1 / 11"
+ },
+ "rm.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rm.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 0 / 5"
+ },
+ "rm.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rm.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rm.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 2 / 8"
+ },
+ "rm.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rm.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "rm.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-DE, ICDAR-NL, ICDAR-multi"
+ },
+ "rm.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0068"
+ },
+ "rm.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rm.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 0 / 12"
+ },
+ "rm.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rm.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 0 / 12"
+ },
+ "rm.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rm.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rm.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rm.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rm.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 0 / 12"
+ },
+ "rm.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rm.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rm.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 0 / 4"
+ },
+ "rm.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rm.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rm.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 1 / 8"
+ },
+ "rm.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "rm.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-NL, ICDAR-multi"
+ },
+ "rm.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0071"
+ },
+ "rm.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rm.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 1 / 6"
+ },
+ "rm.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rm.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rm.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14 / 1 / 8"
+ },
+ "rm.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "rm.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rm.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rm.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 1 / 8"
+ },
+ "rm.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rm.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 0 / 1"
+ },
+ "rm.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rm.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 1 / 6"
+ },
+ "rm.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rm.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rm.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rm.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0030"
+ },
+ "rm.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "rm.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 1 / 15"
+ },
+ "rm.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "rm.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rm.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 1 / 14"
+ },
+ "rm.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "rm.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rm.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE"
+ },
+ "rm.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rm.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 14"
+ },
+ "rm.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "rm.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rm.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 1 / 4"
+ },
+ "rm.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rm.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rm.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 1 / 12"
+ },
+ "rm.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rm.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rm.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "rm.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-FR, ICDAR-multi, Overproof"
+ },
+ "rp.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0046"
+ },
+ "rp.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "rp.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rp.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rp.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "impresso"
+ },
+ "rp.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rp.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 1 / 11"
+ },
+ "rp.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rp.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 1 / 4"
+ },
+ "rp.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rp.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rp.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 1 / 7"
+ },
+ "rp.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rp.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "rp.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rp.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0057"
+ },
+ "rp.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rp.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "rp.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rp.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 1 / 12"
+ },
+ "rp.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rp.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "rp.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "rp.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rp.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 1 / 12"
+ },
+ "rp.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rp.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rp.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 0 / 5"
+ },
+ "rp.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "rp.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rp.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rp.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 1 / 9"
+ },
+ "rp.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rp.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "rp.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rp.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0047"
+ },
+ "rp.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rp.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 1 / 10"
+ },
+ "rp.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "rp.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "rp.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 1 / 11"
+ },
+ "rp.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "impresso"
+ },
+ "rp.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rp.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 1 / 11"
+ },
+ "rp.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "rp.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "rp.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 2"
+ },
+ "rp.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rp.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rp.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 2 / 8"
+ },
+ "rp.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rp.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "rp.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "rp.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-DE, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "rp.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0012"
+ },
+ "rp.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 1 / 15"
+ },
+ "rp.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "rp.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rp.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 1 / 17"
+ },
+ "rp.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "rp.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "rp.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-EN"
+ },
+ "rp.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "rp.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 1 / 16"
+ },
+ "rp.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "rp.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "rp.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2 / 1 / 6"
+ },
+ "rp.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "rp.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "rp.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "rp.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 3 / 13"
+ },
+ "rp.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "rp.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "rp.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "rp.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi"
+ },
+ "seed.confmin.b10.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.confmin.b10.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "1"
+ },
+ "seed.confmin.b10.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.confmin.b10.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "7"
+ },
+ "seed.confmin.b10.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "2"
+ },
+ "seed.confmin.b25.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "7"
+ },
+ "seed.confmin.b25.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "1"
+ },
+ "seed.confmin.b25.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.confmin.b25.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "8"
+ },
+ "seed.confmin.b25.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "2"
+ },
+ "seed.confmin.b50.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "8"
+ },
+ "seed.confmin.b50.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "0"
+ },
+ "seed.confmin.b50.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.confmin.b50.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.confmin.b50.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "4"
+ },
+ "seed.confmin.opt.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "5"
+ },
+ "seed.confmin.opt.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "1"
+ },
+ "seed.confmin.opt.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.confmin.opt.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.confmin.opt.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "2"
+ },
+ "seed.editcap.b10.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b10.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "0"
+ },
+ "seed.editcap.b10.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b10.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b10.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.editcap.b25.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b25.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "0"
+ },
+ "seed.editcap.b25.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b25.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b25.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.editcap.b50.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "7"
+ },
+ "seed.editcap.b50.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "1"
+ },
+ "seed.editcap.b50.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.b50.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "7"
+ },
+ "seed.editcap.b50.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "4"
+ },
+ "seed.editcap.opt.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "2"
+ },
+ "seed.editcap.opt.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "0"
+ },
+ "seed.editcap.opt.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editcap.opt.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "7"
+ },
+ "seed.editcap.opt.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "0"
+ },
+ "seed.editrouter.opt.bet": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.editrouter.opt.flip": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "1"
+ },
+ "seed.editrouter.opt.n": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "9"
+ },
+ "seed.editrouter.opt.same": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "6"
+ },
+ "seed.editrouter.opt.sig": {
+  "source": "process/refine-logs/iter2/seeds/*.json",
+  "value": "2"
+ },
+ "tc.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0054"
+ },
+ "tc.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tc.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17 / 0 / 9"
+ },
+ "tc.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tc.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "17"
+ },
+ "tc.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15 / 0 / 11"
+ },
+ "tc.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tc.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "tc.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "tc.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "tc.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 11"
+ },
+ "tc.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tc.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 0 / 0"
+ },
+ "tc.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tc.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18 / 0 / 8"
+ },
+ "tc.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tc.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "tc.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-EN, ICDAR-DE, ICDAR-FR, ICDAR-ES, ICDAR-NL, ICDAR-multi, impresso, Overproof"
+ },
+ "tc.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0081"
+ },
+ "tc.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tc.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 13"
+ },
+ "tc.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 13"
+ },
+ "tc.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "tc.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "tc.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 0 / 13"
+ },
+ "tc.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tc.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 0 / 3"
+ },
+ "tc.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tc.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16 / 0 / 10"
+ },
+ "tc.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tc.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "tc.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-DE, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "tc.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0064"
+ },
+ "tc.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tc.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 13"
+ },
+ "tc.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 13"
+ },
+ "tc.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "tc.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "tc.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11 / 0 / 13"
+ },
+ "tc.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tc.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 0 / 3"
+ },
+ "tc.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tc.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13 / 0 / 13"
+ },
+ "tc.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "tc.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-DE, ICDAR-ES, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "tc.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0012"
+ },
+ "tc.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tc.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "tc.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 19"
+ },
+ "tc.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tc.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19"
+ },
+ "tc.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 19"
+ },
+ "tc.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tc.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "19"
+ },
+ "tc.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-EN, ICDAR-DE"
+ },
+ "tc.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "tc.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 1 / 18"
+ },
+ "tc.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tc.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "18"
+ },
+ "tc.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tc.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1 / 2 / 6"
+ },
+ "tc.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tc.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tc.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 5 / 15"
+ },
+ "tc.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tc.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "tc.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tc.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-multi"
+ },
+ "tp.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0002"
+ },
+ "tp.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 3 / 11"
+ },
+ "tp.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tp.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 3 / 11"
+ },
+ "tp.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tp.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE"
+ },
+ "tp.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "tp.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 3 / 11"
+ },
+ "tp.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "tp.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 1 / 5"
+ },
+ "tp.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tp.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9 / 4 / 10"
+ },
+ "tp.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "tp.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tp.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi"
+ },
+ "tp.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0026"
+ },
+ "tp.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 2 / 11"
+ },
+ "tp.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 2 / 11"
+ },
+ "tp.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, impresso"
+ },
+ "tp.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "tp.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 2 / 11"
+ },
+ "tp.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tp.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 2 / 3"
+ },
+ "tp.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "tp.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 3 / 8"
+ },
+ "tp.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tp.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "tp.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi, Overproof"
+ },
+ "tp.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0030"
+ },
+ "tp.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 2 / 11"
+ },
+ "tp.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 2 / 11"
+ },
+ "tp.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "impresso"
+ },
+ "tp.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "tp.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8 / 2 / 11"
+ },
+ "tp.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tp.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 1 / 5"
+ },
+ "tp.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tp.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tp.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 2 / 11"
+ },
+ "tp.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "tp.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "tp.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, ICDAR-multi"
+ },
+ "tp.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0009"
+ },
+ "tp.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 16"
+ },
+ "tp.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "tp.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tp.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 1 / 16"
+ },
+ "tp.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "tp.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "tp.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-EN, ICDAR-FR"
+ },
+ "tp.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "23"
+ },
+ "tp.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 1 / 15"
+ },
+ "tp.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "1"
+ },
+ "tp.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "tp.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tp.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2 / 2 / 5"
+ },
+ "tp.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "tp.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tp.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 8 / 8"
+ },
+ "tp.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tp.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "tp.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "tp.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-multi"
+ },
+ "tr.blnen.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "tr.blnen.worse": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "tr.ext.beatsindomain": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "tr.ext.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "tr.ext.ok": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "ver.aucwins": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "11"
+ },
+ "ver.b10": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "5 / 1 / 6"
+ },
+ "ver.b25": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "5 / 1 / 6"
+ },
+ "ver.b50": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "7 / 1 / 4"
+ },
+ "ver.cer": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "2 / 1 / 9"
+ },
+ "ver.dis.max": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "76"
+ },
+ "ver.dis.min": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "45"
+ },
+ "ver.ms.max": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "83"
+ },
+ "ver.ms.min": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "21"
+ },
+ "ver.n": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "12"
+ },
+ "ver.plushelps": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "1"
+ },
+ "ver.rauc.max": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "0.85"
+ },
+ "ver.rauc.min": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "0.59"
+ },
+ "ver.vauc.max": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "0.70"
+ },
+ "ver.vauc.min": {
+  "source": "process/refine-logs/iter2/verifier_*.json",
+  "value": "0.54"
+ },
+ "zc.b10.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0004"
+ },
+ "zc.b10.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b10.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "zc.b10.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 7 / 15"
+ },
+ "zc.b10.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.b10.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "zc.b10.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "zc.b10.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 7 / 15"
+ },
+ "zc.b10.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.b10.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "zc.b10.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "zc.b10.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, impresso, Overproof"
+ },
+ "zc.b10.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "zc.b10.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 6 / 15"
+ },
+ "zc.b10.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "zc.b10.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "15"
+ },
+ "zc.b10.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b10.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0 / 3 / 6"
+ },
+ "zc.b10.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b10.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "zc.b10.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "0"
+ },
+ "zc.b10.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5 / 8 / 13"
+ },
+ "zc.b10.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "zc.b10.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "zc.b10.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "zc.b10.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "none"
+ },
+ "zc.b25.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0001"
+ },
+ "zc.b25.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b25.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "zc.b25.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 8 / 11"
+ },
+ "zc.b25.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "zc.b25.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "zc.b25.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.b25.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 8 / 11"
+ },
+ "zc.b25.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "zc.b25.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "zc.b25.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.b25.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-ES, impresso"
+ },
+ "zc.b25.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "zc.b25.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6 / 8 / 10"
+ },
+ "zc.b25.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "zc.b25.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "zc.b25.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "6"
+ },
+ "zc.b25.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2 / 3 / 4"
+ },
+ "zc.b25.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b25.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "zc.b25.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "zc.b25.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 8 / 11"
+ },
+ "zc.b25.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "8"
+ },
+ "zc.b25.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "11"
+ },
+ "zc.b25.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.b25.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL"
+ },
+ "zc.b50.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$+$0.0005"
+ },
+ "zc.b50.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b50.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b50.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 5 / 9"
+ },
+ "zc.b50.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "zc.b50.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "zc.b50.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "zc.b50.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 5 / 9"
+ },
+ "zc.b50.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "zc.b50.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "zc.b50.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "zc.b50.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-EN, ICDAR-DE, ICDAR-ES"
+ },
+ "zc.b50.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "zc.b50.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 5 / 9"
+ },
+ "zc.b50.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "zc.b50.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "zc.b50.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "zc.b50.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3 / 3 / 3"
+ },
+ "zc.b50.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b50.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b50.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.b50.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12 / 5 / 9"
+ },
+ "zc.b50.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "5"
+ },
+ "zc.b50.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "9"
+ },
+ "zc.b50.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "12"
+ },
+ "zc.b50.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-NL, Overproof"
+ },
+ "zc.opt.delta": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "$-$0.0005"
+ },
+ "zc.opt.dis.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.dis.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "zc.opt.doc": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 3 / 16"
+ },
+ "zc.opt.doc.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.doc.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "zc.opt.doc.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.opt.holm": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 3 / 16"
+ },
+ "zc.opt.holm.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.holm.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "16"
+ },
+ "zc.opt.holm.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.opt.loss": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "ICDAR-DE, ICDAR-ES, ICDAR-NL"
+ },
+ "zc.opt.n": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "26"
+ },
+ "zc.opt.ocr": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7 / 3 / 14"
+ },
+ "zc.opt.ocr.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.ocr.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "14"
+ },
+ "zc.opt.ocr.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "7"
+ },
+ "zc.opt.pool": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4 / 3 / 2"
+ },
+ "zc.opt.pool.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.pool.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "2"
+ },
+ "zc.opt.pool.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "4"
+ },
+ "zc.opt.raw": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10 / 3 / 13"
+ },
+ "zc.opt.raw.l": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "3"
+ },
+ "zc.opt.raw.t": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "13"
+ },
+ "zc.opt.raw.w": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "10"
+ },
+ "zc.opt.win": {
+  "source": "process/refine-logs/iter2/robust_summary.json",
+  "value": "BLN600, ICDAR-FR, impresso, Overproof"
+ }
+}

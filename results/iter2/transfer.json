@@ -1,0 +1,1091 @@
+{
+ "transfer": [
+  {
+   "corrector": "byt5",
+   "source": "blnocr",
+   "target": "icdarc_EN",
+   "transfer": {
+    "never": 0.21281369453215887,
+    "always": 0.3738075452883497,
+    "oracle": 0.20727937510387237,
+    "full": 0.23425294997507062,
+    "full_corrupt": 255,
+    "router_text": 0.2382582682399867,
+    "router_text_corrupt": 441,
+    "router_nodict": 0.2371447565231843,
+    "router_nodict_corrupt": 438,
+    "edit_cap": 0.2472660794415822,
+    "edit_cap_corrupt": 552,
+    "conf_min": 0.21281369453215887,
+    "conf_min_corrupt": 0
+   },
+   "in_domain": {
+    "never": 0.21281369453215887,
+    "always": 0.3738075452883497,
+    "oracle": 0.20727937510387237,
+    "full": 0.21281369453215887,
+    "full_corrupt": 0,
+    "router_text": 0.21281369453215887,
+    "router_text_corrupt": 0,
+    "router_nodict": 0.2131959448230015,
+    "router_nodict_corrupt": 1,
+    "edit_cap": 0.21281369453215887,
+    "edit_cap_corrupt": 0,
+    "conf_min": 0.21281369453215887,
+    "conf_min_corrupt": 0
+   }
+  },
+  {
+   "corrector": "byt5",
+   "source": "icdarc_EN",
+   "target": "blnocr",
+   "transfer": {
+    "never": 0.07144038009531134,
+    "always": 0.05965943805122086,
+    "oracle": 0.04771317467277158,
+    "full": 0.07144038009531134,
+    "full_corrupt": 0,
+    "router_text": 0.07135771942813195,
+    "router_text_corrupt": 1,
+    "router_nodict": 0.07139006490659344,
+    "router_nodict_corrupt": 0,
+    "edit_cap": 0.07144038009531134,
+    "edit_cap_corrupt": 0,
+    "conf_min": 0.07144038009531134,
+    "conf_min_corrupt": 0
+   },
+   "in_domain": {
+    "never": 0.07144038009531134,
+    "always": 0.05965943805122086,
+    "oracle": 0.04771317467277158,
+    "full": 0.04993423086046161,
+    "full_corrupt": 206,
+    "router_text": 0.05044816457379441,
+    "router_text_corrupt": 231,
+    "router_nodict": 0.05014267949943575,
+    "router_nodict_corrupt": 226,
+    "edit_cap": 0.05082193454712736,
+    "edit_cap_corrupt": 277,
+    "conf_min": 0.05438353111994422,
+    "conf_min_corrupt": 210
+   }
+  },
+  {
+   "corrector": "byt5",
+   "source": "blnocr",
+   "target": "ext_impresso_en",
+   "transfer": {
+    "never": 0.02427418922061428,
+    "always": 0.026474428921524785,
+    "oracle": 0.016814839990698174,
+    "full": 0.01935495411695258,
+    "full_corrupt": 80,
+    "router_text": 0.019605387904048085,
+    "router_text_corrupt": 91,
+    "router_nodict": 0.019748492925245515,
+    "router_nodict_corrupt": 90,
+    "edit_cap": 0.019891597946442945,
+    "edit_cap_corrupt": 99,
+    "conf_min": 0.026492317049174464,
+    "conf_min_corrupt": 94
+   },
+   "in_domain": {
+    "never": 0.02427418922061428,
+    "always": 0.026474428921524785,
+    "oracle": 0.016814839990698174,
+    "full": 0.020750228073627534,
+    "full_corrupt": 58,
+    "router_text": 0.02062501118007978,
+    "router_text_corrupt": 70,
+    "router_nodict": 0.0265459814321235,
+    "router_nodict_corrupt": 77,
+    "edit_cap": 0.019891597946442945,
+    "edit_cap_corrupt": 99,
+    "conf_min": 0.026617533942722215,
+    "conf_min_corrupt": 101
+   }
+  },
+  {
+   "corrector": "byt5",
+   "source": "blnocr",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.11938018979833927,
+    "oracle": 0.06637010676156584,
+    "full": 0.07250889679715303,
+    "full_corrupt": 126,
+    "router_text": 0.07184163701067615,
+    "router_text_corrupt": 145,
+    "router_nodict": 0.07855871886120996,
+    "router_nodict_corrupt": 147,
+    "edit_cap": 0.07419928825622776,
+    "edit_cap_corrupt": 177,
+    "conf_min": 0.09381672597864768,
+    "conf_min_corrupt": 124
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.11938018979833927,
+    "oracle": 0.06637010676156584,
+    "full": 0.0745699881376038,
+    "full_corrupt": 121,
+    "router_text": 0.07437722419928826,
+    "router_text_corrupt": 108,
+    "router_nodict": 0.07528173190984579,
+    "router_nodict_corrupt": 98,
+    "edit_cap": 0.07762455516014236,
+    "edit_cap_corrupt": 112,
+    "conf_min": 0.09366844602609727,
+    "conf_min_corrupt": 99
+   }
+  },
+  {
+   "corrector": "byt5",
+   "source": "icdarc_EN",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.11938018979833927,
+    "oracle": 0.06637010676156584,
+    "full": 0.09016903914590747,
+    "full_corrupt": 0,
+    "router_text": 0.09002075919335706,
+    "router_text_corrupt": 0,
+    "router_nodict": 0.09016903914590747,
+    "router_nodict_corrupt": 0,
+    "edit_cap": 0.09016903914590747,
+    "edit_cap_corrupt": 0,
+    "conf_min": 0.09016903914590747,
+    "conf_min_corrupt": 0
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.11938018979833927,
+    "oracle": 0.06637010676156584,
+    "full": 0.0745699881376038,
+    "full_corrupt": 121,
+    "router_text": 0.07437722419928826,
+    "router_text_corrupt": 108,
+    "router_nodict": 0.07528173190984579,
+    "router_nodict_corrupt": 98,
+    "edit_cap": 0.07762455516014236,
+    "edit_cap_corrupt": 112,
+    "conf_min": 0.09366844602609727,
+    "conf_min_corrupt": 99
+   }
+  },
+  {
+   "corrector": "byt5base8",
+   "source": "blnocr",
+   "target": "icdarc_EN",
+   "transfer": {
+    "never": 0.21281369453215887,
+    "always": 0.25290011633704507,
+    "oracle": 0.19606116004653482,
+    "full": 0.20546784111683564,
+    "full_corrupt": 71,
+    "router_text": 0.20442080771148413,
+    "router_text_corrupt": 111,
+    "router_nodict": 0.2022270234336048,
+    "router_nodict_corrupt": 113,
+    "edit_cap": 0.20224364301146752,
+    "edit_cap_corrupt": 134,
+    "conf_min": 0.22672428120325744,
+    "conf_min_corrupt": 111
+   },
+   "in_domain": {
+    "never": 0.21281369453215887,
+    "always": 0.25290011633704507,
+    "oracle": 0.19606116004653482,
+    "full": 0.20644839621073624,
+    "full_corrupt": 118,
+    "router_text": 0.20349011135117168,
+    "router_text_corrupt": 96,
+    "router_nodict": 0.20234336047864385,
+    "router_nodict_corrupt": 92,
+    "edit_cap": 0.20229350174505567,
+    "edit_cap_corrupt": 135,
+    "conf_min": 0.21341199933521687,
+    "conf_min_corrupt": 31
+   }
+  },
+  {
+   "corrector": "byt5base8",
+   "source": "icdarc_EN",
+   "target": "blnocr",
+   "transfer": {
+    "never": 0.07144038009531134,
+    "always": 0.04841758731482214,
+    "oracle": 0.04154956405482918,
+    "full": 0.045531651847645606,
+    "full_corrupt": 261,
+    "router_text": 0.05013549161533319,
+    "router_text_corrupt": 197,
+    "router_nodict": 0.049589212423538885,
+    "router_nodict_corrupt": 208,
+    "edit_cap": 0.045366330513286805,
+    "edit_cap_corrupt": 289,
+    "conf_min": 0.05271594200815106,
+    "conf_min_corrupt": 88
+   },
+   "in_domain": {
+    "never": 0.07144038009531134,
+    "always": 0.04841758731482214,
+    "oracle": 0.04154956405482918,
+    "full": 0.04414439021585216,
+    "full_corrupt": 172,
+    "router_text": 0.04421626905687773,
+    "router_text_corrupt": 201,
+    "router_nodict": 0.04417314175226238,
+    "router_nodict_corrupt": 185,
+    "edit_cap": 0.045165069758415215,
+    "edit_cap_corrupt": 279,
+    "conf_min": 0.04540586387585087,
+    "conf_min_corrupt": 246
+   }
+  },
+  {
+   "corrector": "byt5base8",
+   "source": "blnocr",
+   "target": "ext_impresso_en",
+   "transfer": {
+    "never": 0.02427418922061428,
+    "always": 0.02379120977407295,
+    "oracle": 0.014668264672736705,
+    "full": 0.01740514820313758,
+    "full_corrupt": 83,
+    "router_text": 0.01787023952202923,
+    "router_text_corrupt": 102,
+    "router_nodict": 0.018084897053825377,
+    "router_nodict_corrupt": 103,
+    "edit_cap": 0.018621540883315742,
+    "edit_cap_corrupt": 118,
+    "conf_min": 0.023308230327531616,
+    "conf_min_corrupt": 119
+   },
+   "in_domain": {
+    "never": 0.02427418922061428,
+    "always": 0.02379120977407295,
+    "oracle": 0.014668264672736705,
+    "full": 0.02441729424181171,
+    "full_corrupt": 104,
+    "router_text": 0.019909486074092625,
+    "router_text_corrupt": 115,
+    "router_nodict": 0.024005867305869094,
+    "router_nodict_corrupt": 113,
+    "edit_cap": 0.01901507969160868,
+    "edit_cap_corrupt": 117,
+    "conf_min": 0.02329034219988194,
+    "conf_min_corrupt": 115
+   }
+  },
+  {
+   "corrector": "byt5base8",
+   "source": "blnocr",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.09503262158956109,
+    "oracle": 0.06279655990510083,
+    "full": 0.06926156583629893,
+    "full_corrupt": 107,
+    "router_text": 0.06973606168446025,
+    "router_text_corrupt": 133,
+    "router_nodict": 0.0696767497034401,
+    "router_nodict_corrupt": 125,
+    "edit_cap": 0.07207888493475682,
+    "edit_cap_corrupt": 178,
+    "conf_min": 0.08483096085409253,
+    "conf_min_corrupt": 159
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.09503262158956109,
+    "oracle": 0.06279655990510083,
+    "full": 0.0716785290628707,
+    "full_corrupt": 118,
+    "router_text": 0.07135231316725979,
+    "router_text_corrupt": 132,
+    "router_nodict": 0.071782325029656,
+    "router_nodict_corrupt": 92,
+    "edit_cap": 0.07145610913404507,
+    "edit_cap_corrupt": 133,
+    "conf_min": 0.07390272835112693,
+    "conf_min_corrupt": 66
+   }
+  },
+  {
+   "corrector": "byt5base8",
+   "source": "icdarc_EN",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.09503262158956109,
+    "oracle": 0.06279655990510083,
+    "full": 0.07138196915776987,
+    "full_corrupt": 159,
+    "router_text": 0.07258303677342823,
+    "router_text_corrupt": 134,
+    "router_nodict": 0.07262752075919336,
+    "router_nodict_corrupt": 127,
+    "edit_cap": 0.07240510083036773,
+    "edit_cap_corrupt": 181,
+    "conf_min": 0.07680901542111507,
+    "conf_min_corrupt": 40
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.09503262158956109,
+    "oracle": 0.06279655990510083,
+    "full": 0.0716785290628707,
+    "full_corrupt": 118,
+    "router_text": 0.07135231316725979,
+    "router_text_corrupt": 132,
+    "router_nodict": 0.071782325029656,
+    "router_nodict_corrupt": 92,
+    "edit_cap": 0.07145610913404507,
+    "edit_cap_corrupt": 133,
+    "conf_min": 0.07390272835112693,
+    "conf_min_corrupt": 66
+   }
+  },
+  {
+   "corrector": "qwen",
+   "source": "blnocr",
+   "target": "icdarc_EN",
+   "transfer": {
+    "never": 0.21281369453215887,
+    "always": 0.2279541299650989,
+    "oracle": 0.2055010802725611,
+    "full": 0.21878012298487617,
+    "full_corrupt": 276,
+    "router_text": 0.21902941665281703,
+    "router_text_corrupt": 318,
+    "router_nodict": 0.21824829649326907,
+    "router_nodict_corrupt": 277,
+    "edit_cap": 0.22232009306963604,
+    "edit_cap_corrupt": 360,
+    "conf_min": 0.22748878178494267,
+    "conf_min_corrupt": 389
+   },
+   "in_domain": {
+    "never": 0.21281369453215887,
+    "always": 0.2279541299650989,
+    "oracle": 0.2055010802725611,
+    "full": 0.213046368622237,
+    "full_corrupt": 12,
+    "router_text": 0.21359481469170682,
+    "router_text_corrupt": 11,
+    "router_nodict": 0.21266411833139437,
+    "router_nodict_corrupt": 8,
+    "edit_cap": 0.21279707495429617,
+    "edit_cap_corrupt": 1,
+    "conf_min": 0.21279707495429617,
+    "conf_min_corrupt": 4
+   }
+  },
+  {
+   "corrector": "qwen",
+   "source": "icdarc_EN",
+   "target": "blnocr",
+   "transfer": {
+    "never": 0.07144038009531134,
+    "always": 0.05816795209994034,
+    "oracle": 0.04991626115020521,
+    "full": 0.07040173084249189,
+    "full_corrupt": 20,
+    "router_text": 0.07079706446813251,
+    "router_text_corrupt": 7,
+    "router_nodict": 0.07019687614556903,
+    "router_nodict_corrupt": 20,
+    "edit_cap": 0.07137568913838833,
+    "edit_cap_corrupt": 5,
+    "conf_min": 0.0699345183758257,
+    "conf_min_corrupt": 7
+   },
+   "in_domain": {
+    "never": 0.07144038009531134,
+    "always": 0.05816795209994034,
+    "oracle": 0.04991626115020521,
+    "full": 0.053413166766099064,
+    "full_corrupt": 293,
+    "router_text": 0.05402054297276511,
+    "router_text_corrupt": 385,
+    "router_nodict": 0.053725839724560284,
+    "router_nodict_corrupt": 286,
+    "edit_cap": 0.0565794297132753,
+    "edit_cap_corrupt": 604,
+    "conf_min": 0.05829733401378636,
+    "conf_min_corrupt": 649
+   }
+  },
+  {
+   "corrector": "qwen",
+   "source": "blnocr",
+   "target": "ext_impresso_en",
+   "transfer": {
+    "never": 0.02427418922061428,
+    "always": 0.021751963222009552,
+    "oracle": 0.014310502119743126,
+    "full": 0.018460547734468633,
+    "full_corrupt": 86,
+    "router_text": 0.018621540883315742,
+    "router_text_corrupt": 112,
+    "router_nodict": 0.018084897053825377,
+    "router_nodict_corrupt": 86,
+    "edit_cap": 0.020929109350124323,
+    "edit_cap_corrupt": 159,
+    "conf_min": 0.021537305690213407,
+    "conf_min_corrupt": 155
+   },
+   "in_domain": {
+    "never": 0.02427418922061428,
+    "always": 0.021751963222009552,
+    "oracle": 0.014310502119743126,
+    "full": 0.02082178058422625,
+    "full_corrupt": 129,
+    "router_text": 0.021859291987907627,
+    "router_text_corrupt": 146,
+    "router_nodict": 0.02130476003076758,
+    "router_nodict_corrupt": 142,
+    "edit_cap": 0.021251095647818543,
+    "edit_cap_corrupt": 160,
+    "conf_min": 0.021573081945512763,
+    "conf_min_corrupt": 156
+   }
+  },
+  {
+   "corrector": "qwen",
+   "source": "blnocr",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.07001779359430604,
+    "oracle": 0.0609282325029656,
+    "full": 0.06717081850533808,
+    "full_corrupt": 78,
+    "router_text": 0.06857947805456702,
+    "router_text_corrupt": 105,
+    "router_nodict": 0.06854982206405694,
+    "router_nodict_corrupt": 82,
+    "edit_cap": 0.07018090154211151,
+    "edit_cap_corrupt": 164,
+    "conf_min": 0.06994365361803084,
+    "conf_min_corrupt": 181
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.07001779359430604,
+    "oracle": 0.0609282325029656,
+    "full": 0.06840154211150652,
+    "full_corrupt": 109,
+    "router_text": 0.06814946619217081,
+    "router_text_corrupt": 132,
+    "router_nodict": 0.06969157769869513,
+    "router_nodict_corrupt": 120,
+    "edit_cap": 0.07049228944246738,
+    "edit_cap_corrupt": 159,
+    "conf_min": 0.06994365361803084,
+    "conf_min_corrupt": 181
+   }
+  },
+  {
+   "corrector": "qwen",
+   "source": "icdarc_EN",
+   "target": "ext_overproof_en",
+   "transfer": {
+    "never": 0.09016903914590747,
+    "always": 0.07001779359430604,
+    "oracle": 0.0609282325029656,
+    "full": 0.0887900355871886,
+    "full_corrupt": 7,
+    "router_text": 0.08970937129300119,
+    "router_text_corrupt": 5,
+    "router_nodict": 0.08951660735468564,
+    "router_nodict_corrupt": 4,
+    "edit_cap": 0.09013938315539739,
+    "edit_cap_corrupt": 1,
+    "conf_min": 0.0884638196915777,
+    "conf_min_corrupt": 1
+   },
+   "in_domain": {
+    "never": 0.09016903914590747,
+    "always": 0.07001779359430604,
+    "oracle": 0.0609282325029656,
+    "full": 0.06840154211150652,
+    "full_corrupt": 109,
+    "router_text": 0.06814946619217081,
+    "router_text_corrupt": 132,
+    "router_nodict": 0.06969157769869513,
+    "router_nodict_corrupt": 120,
+    "edit_cap": 0.07049228944246738,
+    "edit_cap_corrupt": 159,
+    "conf_min": 0.06994365361803084,
+    "conf_min_corrupt": 181
+   }
+  }
+ ],
+ "learning_curve": [
+  {
+   "dataset": "blnocr",
+   "corrector": "byt5base8",
+   "dev_docs": 5,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.04841758731482214,
+   "full": {
+    "mean": 0.0481329471043609,
+    "sd": 0.0007307515630080883
+   },
+   "router_text": {
+    "mean": 0.048416509132206756,
+    "sd": 0.0005399939492446973
+   },
+   "router_nodict": {
+    "mean": 0.048250109615232566,
+    "sd": 0.0004974779193395723
+   },
+   "edit_cap": {
+    "mean": 0.04572859987205566,
+    "sd": 0.0013078540301673701
+   },
+   "conf_min": {
+    "mean": 0.047020622039490235,
+    "sd": 0.0010194412224954392
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "byt5base8",
+   "dev_docs": 10,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.04841758731482214,
+   "full": {
+    "mean": 0.04843340065984776,
+    "sd": 0.0011024011708124463
+   },
+   "router_text": {
+    "mean": 0.04814947923779677,
+    "sd": 0.0013089561269820453
+   },
+   "router_nodict": {
+    "mean": 0.04910367085241117,
+    "sd": 0.0027515894669886977
+   },
+   "edit_cap": {
+    "mean": 0.04548960272564565,
+    "sd": 0.00047899859576111797
+   },
+   "conf_min": {
+    "mean": 0.04708135966015684,
+    "sd": 0.0014177660000143917
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "byt5base8",
+   "dev_docs": 20,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.04841758731482214,
+   "full": {
+    "mean": 0.04646535799256773,
+    "sd": 0.0013024168313230799
+   },
+   "router_text": {
+    "mean": 0.04642869978364469,
+    "sd": 0.0009626871401973949
+   },
+   "router_nodict": {
+    "mean": 0.04645601374323441,
+    "sd": 0.0010677550423070707
+   },
+   "edit_cap": {
+    "mean": 0.045191305535389546,
+    "sd": 6.544626696585422e-05
+   },
+   "conf_min": {
+    "mean": 0.047345155006720666,
+    "sd": 0.0014462874832167894
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "byt5base8",
+   "dev_docs": 40,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.04841758731482214,
+   "full": {
+    "mean": 0.04543066207600469,
+    "sd": 0.0011121917500811263
+   },
+   "router_text": {
+    "mean": 0.04515931945113317,
+    "sd": 0.000739497048060853
+   },
+   "router_nodict": {
+    "mean": 0.045692660451542876,
+    "sd": 0.0010791116085743274
+   },
+   "edit_cap": {
+    "mean": 0.04520316554415876,
+    "sd": 0.00013353030401497861
+   },
+   "conf_min": {
+    "mean": 0.047451535691438514,
+    "sd": 0.0011716149662596947
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "byt5base8",
+   "dev_docs": 96,
+   "reps": 1,
+   "never": 0.07144038009531134,
+   "always": 0.04841758731482214,
+   "full": {
+    "mean": 0.04414439021585216,
+    "sd": 0.0
+   },
+   "router_text": {
+    "mean": 0.04421626905687773,
+    "sd": 0.0
+   },
+   "router_nodict": {
+    "mean": 0.04417314175226238,
+    "sd": 0.0
+   },
+   "edit_cap": {
+    "mean": 0.045165069758415215,
+    "sd": 0.0
+   },
+   "conf_min": {
+    "mean": 0.04540586387585087,
+    "sd": 0.0
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "qwen",
+   "dev_docs": 5,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.05816795209994034,
+   "full": {
+    "mean": 0.057322297535274534,
+    "sd": 0.0007696845401497117
+   },
+   "router_text": {
+    "mean": 0.05722382352306952,
+    "sd": 0.0006931130391237292
+   },
+   "router_nodict": {
+    "mean": 0.0572662320392746,
+    "sd": 0.0006838157378565221
+   },
+   "edit_cap": {
+    "mean": 0.05676595530573666,
+    "sd": 0.00046677117098539863
+   },
+   "conf_min": {
+    "mean": 0.0585780208879912,
+    "sd": 0.0005036097780847505
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "qwen",
+   "dev_docs": 10,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.05816795209994034,
+   "full": {
+    "mean": 0.05633576044219864,
+    "sd": 0.0008445179593547047
+   },
+   "router_text": {
+    "mean": 0.05662219762368551,
+    "sd": 0.0005844228284972049
+   },
+   "router_nodict": {
+    "mean": 0.0560475262896861,
+    "sd": 0.0006455324222367118
+   },
+   "edit_cap": {
+    "mean": 0.05671456193440337,
+    "sd": 0.0004360273822701775
+   },
+   "conf_min": {
+    "mean": 0.058520158420965626,
+    "sd": 0.0002686528777121034
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "qwen",
+   "dev_docs": 20,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.05816795209994034,
+   "full": {
+    "mean": 0.055083990425738374,
+    "sd": 0.0008027461178564649
+   },
+   "router_text": {
+    "mean": 0.05539091307691755,
+    "sd": 0.0003948270453285153
+   },
+   "router_nodict": {
+    "mean": 0.0549991733933282,
+    "sd": 0.0004813388741090273
+   },
+   "edit_cap": {
+    "mean": 0.05667790372548033,
+    "sd": 0.0003880565482836052
+   },
+   "conf_min": {
+    "mean": 0.05840946500578624,
+    "sd": 0.0003038307642103384
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "qwen",
+   "dev_docs": 40,
+   "reps": 10,
+   "never": 0.07144038009531134,
+   "always": 0.05816795209994034,
+   "full": {
+    "mean": 0.05434795109363656,
+    "sd": 0.0004177590881846429
+   },
+   "router_text": {
+    "mean": 0.05444534692322621,
+    "sd": 0.00026618375979122204
+   },
+   "router_nodict": {
+    "mean": 0.054458644508815934,
+    "sd": 0.00026134384504013523
+   },
+   "edit_cap": {
+    "mean": 0.05655714727255738,
+    "sd": 0.00022929688272945733
+   },
+   "conf_min": {
+    "mean": 0.0582772079382992,
+    "sd": 0.00014418114352609529
+   }
+  },
+  {
+   "dataset": "blnocr",
+   "corrector": "qwen",
+   "dev_docs": 96,
+   "reps": 1,
+   "never": 0.07144038009531134,
+   "always": 0.05816795209994034,
+   "full": {
+    "mean": 0.053413166766099064,
+    "sd": 0.0
+   },
+   "router_text": {
+    "mean": 0.05402054297276511,
+    "sd": 0.0
+   },
+   "router_nodict": {
+    "mean": 0.053725839724560284,
+    "sd": 0.0
+   },
+   "edit_cap": {
+    "mean": 0.0565794297132753,
+    "sd": 0.0
+   },
+   "conf_min": {
+    "mean": 0.05829733401378636,
+    "sd": 0.0
+   }
+  },
+  {
+   "dataset": "icdarc_DE",
+   "corrector": "byt5base8m",
+   "dev_docs": 5,
+   "reps": 10,
+   "never": 0.2561839840718118,
+   "always": 0.13457125501974151,
+   "full": {
+    "mean": 0.1405282961563122,
+    "sd": 0.010980616962772027
+   },
+   "router_text": {
+    "mean": 0.13498633280464348,
+    "sd": 0.0006346476842926405
+   },
+   "router_nodict": {
+    "mean": 0.13766830897985355,
+    "sd": 0.00799959005792171
+   },
+   "edit_cap": {
+    "mean": 0.12792073026693213,
+    "sd": 0.0006701614026343947
+   },
+   "conf_min": {
+    "mean": 0.13783535247865553,
+    "sd": 0.004470637994627074
+   }
+  },
+  {
+   "dataset": "icdarc_DE",
+   "corrector": "byt5base8m",
+   "dev_docs": 10,
+   "reps": 10,
+   "never": 0.2561839840718118,
+   "always": 0.13457125501974151,
+   "full": {
+    "mean": 0.1360476495798603,
+    "sd": 0.0024165232428038285
+   },
+   "router_text": {
+    "mean": 0.13521411939391897,
+    "sd": 0.002036402594361635
+   },
+   "router_nodict": {
+    "mean": 0.13563088448688962,
+    "sd": 0.0025834670227476127
+   },
+   "edit_cap": {
+    "mean": 0.1277519994600614,
+    "sd": 0.0007028812844331344
+   },
+   "conf_min": {
+    "mean": 0.13998245199608544,
+    "sd": 0.006061377063430532
+   }
+  },
+  {
+   "dataset": "icdarc_DE",
+   "corrector": "byt5base8m",
+   "dev_docs": 20,
+   "reps": 10,
+   "never": 0.2561839840718118,
+   "always": 0.13457125501974151,
+   "full": {
+    "mean": 0.1357346539331151,
+    "sd": 0.0018081985963619139
+   },
+   "router_text": {
+    "mean": 0.13465224580703944,
+    "sd": 0.00041411641495343236
+   },
+   "router_nodict": {
+    "mean": 0.13535922788782778,
+    "sd": 0.0028555519406337822
+   },
+   "edit_cap": {
+    "mean": 0.1278515506361151,
+    "sd": 0.0007648388059604106
+   },
+   "conf_min": {
+    "mean": 0.1348766577801775,
+    "sd": 0.00011737407815231927
+   }
+  },
+  {
+   "dataset": "icdarc_DE",
+   "corrector": "byt5base8m",
+   "dev_docs": 40,
+   "reps": 10,
+   "never": 0.2561839840718118,
+   "always": 0.13457125501974151,
+   "full": {
+    "mean": 0.13497620895623125,
+    "sd": 0.0022728546999621806
+   },
+   "router_text": {
+    "mean": 0.13419161070428237,
+    "sd": 0.0024383849287159614
+   },
+   "router_nodict": {
+    "mean": 0.13286623021631289,
+    "sd": 0.0026012727015068495
+   },
+   "edit_cap": {
+    "mean": 0.12789710795397022,
+    "sd": 0.000322810962568624
+   },
+   "conf_min": {
+    "mean": 0.13474589140485266,
+    "sd": 6.578878856302407e-05
+   }
+  },
+  {
+   "dataset": "icdarc_DE",
+   "corrector": "byt5base8m",
+   "dev_docs": 60,
+   "reps": 1,
+   "never": 0.2561839840718118,
+   "always": 0.13457125501974151,
+   "full": {
+    "mean": 0.1384014443357068,
+    "sd": 0.0
+   },
+   "router_text": {
+    "mean": 0.13293456619309554,
+    "sd": 0.0
+   },
+   "router_nodict": {
+    "mean": 0.13279958154759897,
+    "sd": 0.0
+   },
+   "edit_cap": {
+    "mean": 0.12782202274491278,
+    "sd": 0.0
+   },
+   "conf_min": {
+    "mean": 0.1347146762055816,
+    "sd": 0.0
+   }
+  },
+  {
+   "dataset": "icdarc_multi",
+   "corrector": "qwen",
+   "dev_docs": 5,
+   "reps": 10,
+   "never": 0.2677546181712704,
+   "always": 0.2919655327883066,
+   "full": {
+    "mean": 0.2679510421822929,
+    "sd": 0.0004028412376596045
+   },
+   "router_text": {
+    "mean": 0.2694696236415056,
+    "sd": 0.004394695035374911
+   },
+   "router_nodict": {
+    "mean": 0.26940766967976265,
+    "sd": 0.004020869385780849
+   },
+   "edit_cap": {
+    "mean": 0.2680870886682578,
+    "sd": 0.0005477687404484367
+   },
+   "conf_min": {
+    "mean": 0.2678635499462435,
+    "sd": 0.00035422953266708716
+   }
+  },
+  {
+   "dataset": "icdarc_multi",
+   "corrector": "qwen",
+   "dev_docs": 10,
+   "reps": 10,
+   "never": 0.2677546181712704,
+   "always": 0.2919655327883066,
+   "full": {
+    "mean": 0.26779134914604424,
+    "sd": 8.014765968549871e-05
+   },
+   "router_text": {
+    "mean": 0.2678821518991333,
+    "sd": 0.0001825952662646125
+   },
+   "router_nodict": {
+    "mean": 0.2678544066134672,
+    "sd": 0.00021185461586818404
+   },
+   "edit_cap": {
+    "mean": 0.2677858316176447,
+    "sd": 5.605468375792702e-05
+   },
+   "conf_min": {
+    "mean": 0.2677467359878425,
+    "sd": 2.3782782367430234e-05
+   }
+  },
+  {
+   "dataset": "icdarc_multi",
+   "corrector": "qwen",
+   "dev_docs": 20,
+   "reps": 10,
+   "never": 0.2677546181712704,
+   "always": 0.2919655327883066,
+   "full": {
+    "mean": 0.26780033483515203,
+    "sd": 0.00016528094778255046
+   },
+   "router_text": {
+    "mean": 0.26781452276532214,
+    "sd": 0.00010495327764744282
+   },
+   "router_nodict": {
+    "mean": 0.267808532305917,
+    "sd": 0.000116551455868793
+   },
+   "edit_cap": {
+    "mean": 0.2678108969609454,
+    "sd": 6.307736679621876e-05
+   },
+   "conf_min": {
+    "mean": 0.26769487122088714,
+    "sd": 5.9715330092937745e-05
+   }
+  },
+  {
+   "dataset": "icdarc_multi",
+   "corrector": "qwen",
+   "dev_docs": 40,
+   "reps": 10,
+   "never": 0.2677546181712704,
+   "always": 0.2919655327883066,
+   "full": {
+    "mean": 0.2676501004190169,
+    "sd": 0.00015179873849367192
+   },
+   "router_text": {
+    "mean": 0.2676571943841019,
+    "sd": 0.00016057507006076073
+   },
+   "router_nodict": {
+    "mean": 0.26774027259743166,
+    "sd": 0.00015218853138579053
+   },
+   "edit_cap": {
+    "mean": 0.26775887455032144,
+    "sd": 1.0968420055296133e-05
+   },
+   "conf_min": {
+    "mean": 0.267702753404315,
+    "sd": 7.334565449177914e-05
+   }
+  },
+  {
+   "dataset": "icdarc_multi",
+   "corrector": "qwen",
+   "dev_docs": 203,
+   "reps": 1,
+   "never": 0.2677546181712704,
+   "always": 0.2919655327883066,
+   "full": {
+    "mean": 0.26695694120837027,
+    "sd": 0.0
+   },
+   "router_text": {
+    "mean": 0.2671666072875515,
+    "sd": 0.0
+   },
+   "router_nodict": {
+    "mean": 0.267005810745623,
+    "sd": 0.0
+   },
+   "edit_cap": {
+    "mean": 0.2677546181712704,
+    "sd": 0.0
+   },
+   "conf_min": {
+    "mean": 0.2677546181712704,
+    "sd": 0.0
+   }
+  }
+ ]
+}

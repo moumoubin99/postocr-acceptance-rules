@@ -1,0 +1,19 @@
+\begin{tabular}{llrrrrrrc}
+\toprule
+Test set & Corrector & \multicolumn{2}{c}{AUC} & \multicolumn{3}{c}{CER} & $\Delta$ router$-$verifier & Order \\
+ & & router & verifier & router & verifier & router+ver. & & disagreement \\
+\midrule
+BLN600 & ByT5-base & 0.823 & 0.680 & 0.0441 & 0.0465 & 0.0440 & $-$0.0023$^{*}$ & 55\% \\
+BLN600 & Qwen2.5-7B & 0.846 & 0.624 & 0.0534 & 0.0580 & 0.0537 & $-$0.0046$^{*}$ & 52\% \\
+ICDAR-EN & ByT5-base & 0.604 & 0.560 & 0.2064 & 0.2207 & 0.2079 & $-$0.0143 & 76\% \\
+ICDAR-EN & Qwen2.5-7B & 0.621 & 0.537 & 0.2130 & 0.2128 & 0.2126 & $+$0.0002 & 70\% \\
+ICDAR-DE & ByT5-base-ML & 0.834 & 0.608 & 0.1384 & 0.1309 & 0.1363 & $+$0.0075 & 45\% \\
+ICDAR-FR & ByT5-base-ML & 0.600 & 0.583 & 0.0616 & 0.0616 & 0.0609 & $-$0.0000 & 70\% \\
+ICDAR-ES & ByT5-base-ML & 0.623 & 0.539 & 0.3881 & 0.3935 & 0.3880 & $-$0.0053 & 65\% \\
+ICDAR-NL & ByT5-base-ML & 0.726 & 0.643 & 0.2829 & 0.2858 & 0.2668 & $-$0.0030 & 57\% \\
+impresso & ByT5-base & 0.588 & 0.696 & 0.0244 & 0.0189 & 0.0243 & $+$0.0055$^{*}$ & 62\% \\
+impresso & Qwen2.5-7B & 0.722 & 0.657 & 0.0208 & 0.0201 & 0.0197 & $+$0.0007 & 58\% \\
+Overproof & ByT5-base & 0.783 & 0.650 & 0.0717 & 0.0748 & 0.0725 & $-$0.0031 & 64\% \\
+Overproof & Qwen2.5-7B & 0.788 & 0.590 & 0.0684 & 0.0700 & 0.0677 & $-$0.0016 & 62\% \\
+\bottomrule
+\end{tabular}

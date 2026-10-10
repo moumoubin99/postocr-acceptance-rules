@@ -1,0 +1,298 @@
+{
+ "dataset": "blnocr",
+ "corrector": "symspell",
+ "full_router": "router_align",
+ "n_test": 3884,
+ "n_test_docs": 102,
+ "policies": {
+  "never": {
+   "cer": 0.07144038009531134,
+   "corrupt": 0,
+   "improved": 0
+  },
+  "always": {
+   "cer": 0.07423287306915463,
+   "corrupt": 1063,
+   "improved": 722
+  },
+  "oracle_seg": {
+   "cer": 0.06755173479582816,
+   "corrupt": 0,
+   "improved": 722
+  },
+  "oracle_edit": {
+   "cer": 0.0658805517419837,
+   "corrupt": 0,
+   "improved": 1034
+  },
+  "seg_router_align": {
+   "cer": 0.07036579142197912,
+   "corrupt": 315,
+   "improved": 506,
+   "thr": 0.37543392384286733
+  },
+  "seg_edit_cap": {
+   "cer": 0.07146194374761901,
+   "corrupt": 265,
+   "improved": 259,
+   "thr": -0.014084507042253521
+  },
+  "edit_router": {
+   "cer": 0.06944933619890313,
+   "corrupt": 375,
+   "improved": 735,
+   "thr": 0.3593245871657508,
+   "edit_accept_rate": 0.4881552419354839
+  },
+  "edit_size": {
+   "cer": 0.07062096130761987,
+   "corrupt": 459,
+   "improved": 626,
+   "thr": -0.2,
+   "edit_accept_rate": 0.41507056451612906
+  },
+  "cascade": {
+   "cer": 0.06950324532967231,
+   "corrupt": 377,
+   "improved": 729,
+   "seg_thr": 0.7587968611742684,
+   "edit_thr": 0.3593245871657508
+  }
+ },
+ "bootstrap": {
+  "seg_router_align": {
+   "edit_router": {
+    "delta": -0.0009164552230759848,
+    "ci95": [
+     -0.0012446469964015263,
+     -0.0006017240612578511
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "edit_size": {
+    "delta": 0.0002551698856407547,
+    "ci95": [
+     -0.00013905401558560355,
+     0.0006291358223217302
+    ],
+    "p_two_sided": 0.213,
+    "p_holm": 0.213
+   },
+   "cascade": {
+    "delta": -0.0008625460923068068,
+    "ci95": [
+     -0.0011805494577649834,
+     -0.0005555984405935778
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   }
+  },
+  "seg_edit_cap": {
+   "edit_router": {
+    "delta": -0.002012607548715878,
+    "ci95": [
+     -0.0025767465524049837,
+     -0.0014746205204382733
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "edit_size": {
+    "delta": -0.0008409824399991384,
+    "ci95": [
+     -0.0012628444410528877,
+     -0.0004018539456971548
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "cascade": {
+    "delta": -0.0019586984179467,
+    "ci95": [
+     -0.0025277412721003653,
+     -0.0014212747010028243
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   }
+  }
+ },
+ "devtuned_budget_frontier": {
+  "10pct": {
+   "seg_router_align": {
+    "test_cer": 0.07053830064044048,
+    "test_corrupt": 86
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.07142600432710623,
+    "test_corrupt": 104
+   },
+   "edit_router": {
+    "test_cer": 0.07024000345018437,
+    "test_corrupt": 76,
+    "vs_seg_router_align": {
+     "delta": -0.00029829719025610546,
+     "ci95": [
+      -0.0005272993226772234,
+      -9.163626439374227e-05
+     ],
+     "p_two_sided": 0.006,
+     "p_holm": 0.012
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.001186000876921861,
+     "ci95": [
+      -0.001454061368934752,
+      -0.0009129980643136989
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.07079347052608123,
+    "test_corrupt": 45,
+    "vs_seg_router_align": {
+     "delta": 0.0002551698856407547,
+     "ci95": [
+      -7.196470602927745e-06,
+      0.0005306387253845867
+     ],
+     "p_two_sided": 0.059,
+     "p_holm": 0.059
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.0006325338010250009,
+     "ci95": [
+      -0.0007822683688915629,
+      -0.000491410665560977
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   }
+  },
+  "25pct": {
+   "seg_router_align": {
+    "test_cer": 0.07034422776967145,
+    "test_corrupt": 226
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.07146194374761901,
+    "test_corrupt": 265
+   },
+   "edit_router": {
+    "test_cer": 0.06951043321377486,
+    "test_corrupt": 249,
+    "vs_seg_router_align": {
+     "delta": -0.0008337945558965915,
+     "ci95": [
+      -0.0011023757396359188,
+      -0.0005616655969641236
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.001951510533844153,
+     "ci95": [
+      -0.0024220101451184824,
+      -0.001503236177373394
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.07044126420505596,
+    "test_corrupt": 188,
+    "vs_seg_router_align": {
+     "delta": 9.70364353845149e-05,
+     "ci95": [
+      -0.0002499972522367826,
+      0.00046429841343431107
+     ],
+     "p_two_sided": 0.619,
+     "p_holm": 0.619
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.0010206795425630466,
+     "ci95": [
+      -0.001271487262554619,
+      -0.0007717277418794921
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   }
+  },
+  "50pct": {
+   "seg_router_align": {
+    "test_cer": 0.07034782171172271,
+    "test_corrupt": 311
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.07146194374761901,
+    "test_corrupt": 265
+   },
+   "edit_router": {
+    "test_cer": 0.06953918475018508,
+    "test_corrupt": 403,
+    "vs_seg_router_align": {
+     "delta": -0.0008086369615376288,
+     "ci95": [
+      -0.001181161644102522,
+      -0.0004675770444569681
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.0019227589974339238,
+     "ci95": [
+      -0.0025314523017238616,
+      -0.0013693516801089438
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.07062096130761987,
+    "test_corrupt": 459,
+    "vs_seg_router_align": {
+     "delta": 0.00027313959589715664,
+     "ci95": [
+      -0.00012473337976928142,
+      0.0006482344871351667
+     ],
+     "p_two_sided": 0.185,
+     "p_holm": 0.185
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.0008409824399991384,
+     "ci95": [
+      -0.0012628444410528877,
+      -0.0004018539456971548
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   }
+  }
+ },
+ "diagnostics": {
+  "n_edits_test": 3968,
+  "edits_per_attempted_seg": 1.830258302583026,
+  "edit_helpful": 0.34475806451612906,
+  "edit_harmful": 0.46169354838709675,
+  "edit_neutral": 0.1935483870967742,
+  "mixed_segments": 0.18726937269372693,
+  "oracle_exhaustive_rows": 1.0,
+  "has_edit_lp": false,
+  "edit_router_auc": 0.7847078834907782
+ },
+ "protocol": "atomic whitespace-delimited edits (character alignment); edit router cross-fitted (5-fold doc-grouped OOF) on dev; thresholds on dev quantile grid incl. abstain; single test eval; micro CER; paired doc bootstrap B=2000; Holm"
+}

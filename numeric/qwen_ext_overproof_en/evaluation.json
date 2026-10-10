@@ -1,0 +1,252 @@
+{
+  "corrector": "qwen",
+  "dataset": "ext_overproof_en",
+  "full_router": "router_conf",
+  "row_counts": {
+    "dev": 881,
+    "test": 943
+  },
+  "input_sha256": {
+    "dev": "ee3d4bce463bafb91acbd3dcc9b670de2f776301e73e902b3f86939830427baa",
+    "test": "ef942e1c722beddb7b4545e4ec5106c97a519a20048049182e76fda29c1129fe"
+  },
+  "policies": {
+    "router_cpu_recheck": {
+      "opt": {
+        "threshold": 0.23777810547504244,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.06840154211150652,
+          "corrupt": 109,
+          "accepted": 705
+        },
+        "original_aggregated_cer": 0.06840154211150652,
+        "original_aggregated_corrupt": 109,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "10pct": {
+        "threshold": 0.9236600554947816,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.08030842230130486,
+          "corrupt": 6,
+          "accepted": 236
+        },
+        "original_aggregated_cer": 0.08030842230130486,
+        "original_aggregated_corrupt": 6,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "25pct": {
+        "threshold": 0.7496907201953377,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07422894424673784,
+          "corrupt": 29,
+          "accepted": 416
+        },
+        "original_aggregated_cer": 0.07422894424673784,
+        "original_aggregated_corrupt": 29,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "50pct": {
+        "threshold": 0.5021308094948366,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07083333333333333,
+          "corrupt": 65,
+          "accepted": 582
+        },
+        "original_aggregated_cer": 0.07083333333333333,
+        "original_aggregated_corrupt": 65,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      }
+    },
+    "edit_cap": {
+      "opt": {
+        "threshold": -0.23098591549295772,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07049228944246738,
+          "corrupt": 159,
+          "accepted": 779
+        },
+        "original_aggregated_cer": 0.07049228944246738,
+        "original_aggregated_corrupt": 159,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "10pct": {
+        "threshold": -0.02702702702702703,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.08809311981020167,
+          "corrupt": 26,
+          "accepted": 174
+        },
+        "original_aggregated_cer": 0.08809311981020167,
+        "original_aggregated_corrupt": 26,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "25pct": {
+        "threshold": -0.051553509781357795,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.08440094899169633,
+          "corrupt": 52,
+          "accepted": 358
+        },
+        "original_aggregated_cer": 0.08440094899169633,
+        "original_aggregated_corrupt": 52,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "50pct": {
+        "threshold": -0.08333333333333333,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07863285883748518,
+          "corrupt": 89,
+          "accepted": 543
+        },
+        "original_aggregated_cer": 0.07863285883748518,
+        "original_aggregated_corrupt": 89,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      }
+    },
+    "conf_min": {
+      "opt": {
+        "threshold": -6.141965055465699,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.06994365361803084,
+          "corrupt": 181,
+          "accepted": 821
+        },
+        "original_aggregated_cer": 0.06994365361803084,
+        "original_aggregated_corrupt": 181,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "10pct": {
+        "threshold": -0.08990169465541843,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.08125741399762752,
+          "corrupt": 17,
+          "accepted": 235
+        },
+        "original_aggregated_cer": 0.08125741399762752,
+        "original_aggregated_corrupt": 17,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "25pct": {
+        "threshold": -0.2809579908847809,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07792111506524318,
+          "corrupt": 43,
+          "accepted": 351
+        },
+        "original_aggregated_cer": 0.07792111506524318,
+        "original_aggregated_corrupt": 43,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "50pct": {
+        "threshold": -0.6681309461593626,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07225682087781732,
+          "corrupt": 91,
+          "accepted": 572
+        },
+        "original_aggregated_cer": 0.07225682087781732,
+        "original_aggregated_corrupt": 91,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      }
+    },
+    "conf_mean": {
+      "opt": {
+        "threshold": -0.2540650341110218,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.06994365361803084,
+          "corrupt": 165,
+          "accepted": 785
+        },
+        "original_aggregated_cer": 0.06994365361803084,
+        "original_aggregated_corrupt": 165,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "10pct": {
+        "threshold": -0.006607641150820931,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.08150948991696323,
+          "corrupt": 18,
+          "accepted": 233
+        },
+        "original_aggregated_cer": 0.08150948991696323,
+        "original_aggregated_corrupt": 18,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "25pct": {
+        "threshold": -0.023358545630930722,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.0777135231316726,
+          "corrupt": 48,
+          "accepted": 380
+        },
+        "original_aggregated_cer": 0.0777135231316726,
+        "original_aggregated_corrupt": 48,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      },
+      "50pct": {
+        "threshold": -0.06800581383286426,
+        "threshold_is_positive_infinity": false,
+        "cpu_recheck": {
+          "cer": 0.07231613285883748,
+          "corrupt": 105,
+          "accepted": 605
+        },
+        "original_aggregated_cer": 0.07231613285883748,
+        "original_aggregated_corrupt": 105,
+        "cer_matches_original": true,
+        "corrupt_matches_original": true
+      }
+    }
+  },
+  "scope": "Main segment router CPU recheck, edit-density cap, mean/min-token confidence. Original aggregated results are preserved separately.",
+  "frozen_error_validation": {
+    "never": {
+      "recomputed": {
+        "cer": 0.09016903914590747,
+        "corrupt": 0,
+        "accepted": 0
+      },
+      "original": 0.09016903914590747,
+      "cer_matches": true
+    },
+    "always": {
+      "recomputed": {
+        "cer": 0.07001779359430604,
+        "corrupt": 188,
+        "accepted": 834
+      },
+      "original": 0.07001779359430604,
+      "cer_matches": true
+    }
+  }
+}

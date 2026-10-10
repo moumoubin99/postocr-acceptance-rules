@@ -1,0 +1,32 @@
+{
+  "ext_impresso_en": {
+    "train": {
+      "docs": 50,
+      "segs": 396
+    },
+    "dev": {
+      "docs": 10,
+      "segs": 73
+    },
+    "test": {
+      "docs": 100,
+      "segs": 816
+    },
+    "near_dup_vs_bln600(containment>=0.3)": []
+  },
+  "ext_overproof_en": {
+    "train": {
+      "docs": 146,
+      "segs": 3915
+    },
+    "dev": {
+      "docs": 30,
+      "segs": 881
+    },
+    "test": {
+      "docs": 32,
+      "segs": 943
+    },
+    "near_dup_vs_bln600(containment>=0.3)": []
+  }
+}

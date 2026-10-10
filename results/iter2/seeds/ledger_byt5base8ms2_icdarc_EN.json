@@ -1,0 +1,872 @@
+{
+ "dataset": "icdarc_EN",
+ "corrector": "byt5base8ms2",
+ "n_dev": 518,
+ "n_test": 847,
+ "n_dev_docs": 25,
+ "n_test_docs": 47,
+ "attempted_test": 650,
+ "full_router": "router_conf",
+ "policies": {
+  "never": {
+   "cer": 0.21281369453215887,
+   "doc_cer": 0.21127014871475,
+   "corrupt": 0,
+   "harm_rate": 0.0,
+   "accept_rate_attempted": 0.0,
+   "num_broken": 0,
+   "num_fixed": 0,
+   "cap_broken": 0,
+   "cap_fixed": 0
+  },
+  "always": {
+   "cer": 0.26066145919893635,
+   "doc_cer": 0.253356751255704,
+   "corrupt": 157,
+   "harm_rate": 0.18536009445100354,
+   "accept_rate_attempted": 1.0,
+   "num_broken": 6,
+   "num_fixed": 2,
+   "cap_broken": 54,
+   "cap_fixed": 138
+  },
+  "oracle": {
+   "cer": 0.19077613428618914,
+   "doc_cer": 0.1892419815501789,
+   "corrupt": 0,
+   "harm_rate": 0.0,
+   "accept_rate_attempted": 0.6092307692307692,
+   "num_broken": 1,
+   "num_fixed": 2,
+   "cap_broken": 5,
+   "cap_fixed": 107
+  },
+  "router_text": {
+   "cer": 0.20104703340535152,
+   "doc_cer": 0.19884442401759628,
+   "corrupt": 76,
+   "harm_rate": 0.089728453364817,
+   "accept_rate_attempted": 0.5230769230769231,
+   "num_broken": 1,
+   "num_fixed": 0,
+   "cap_broken": 23,
+   "cap_fixed": 56,
+   "thr": 0.7690834137625595,
+   "auc_test": 0.5967847769028871
+  },
+  "router_align": {
+   "cer": 0.1995512713977065,
+   "doc_cer": 0.1973014674501822,
+   "corrupt": 88,
+   "harm_rate": 0.1038961038961039,
+   "accept_rate_attempted": 0.6338461538461538,
+   "num_broken": 3,
+   "num_fixed": 0,
+   "cap_broken": 27,
+   "cap_fixed": 67,
+   "thr": 0.69762417475054,
+   "auc_test": 0.6120953630796151
+  },
+  "router_nodict": {
+   "cer": 0.20528502576034569,
+   "doc_cer": 0.20340763599356554,
+   "corrupt": 29,
+   "harm_rate": 0.03423848878394333,
+   "accept_rate_attempted": 0.23384615384615384,
+   "num_broken": 1,
+   "num_fixed": 0,
+   "cap_broken": 16,
+   "cap_fixed": 24,
+   "thr": 0.934127656093248,
+   "auc_test": 0.6011691720353138
+  },
+  "errdet_ocr_only": {
+   "cer": 0.21130131294665117,
+   "doc_cer": 0.20977643544204064,
+   "corrupt": 1,
+   "harm_rate": 0.0011806375442739079,
+   "accept_rate_attempted": 0.018461538461538463,
+   "num_broken": 0,
+   "num_fixed": 0,
+   "cap_broken": 0,
+   "cap_fixed": 4,
+   "thr": 0.9954918337204752,
+   "auc_test": 0.5448977968663008
+  },
+  "router_conf": {
+   "cer": 0.19898620575037393,
+   "doc_cer": 0.19718656642920457,
+   "corrupt": 76,
+   "harm_rate": 0.089728453364817,
+   "accept_rate_attempted": 0.5969230769230769,
+   "num_broken": 2,
+   "num_fixed": 0,
+   "cap_broken": 17,
+   "cap_fixed": 72,
+   "thr": 0.7129908945841587,
+   "auc_test": 0.633291577189215
+  },
+  "router_util": {
+   "cer": 0.19817184643510055,
+   "doc_cer": 0.19580775417747284,
+   "corrupt": 141,
+   "harm_rate": 0.16646989374262103,
+   "accept_rate_attempted": 0.9615384615384616,
+   "num_broken": 3,
+   "num_fixed": 2,
+   "cap_broken": 35,
+   "cap_fixed": 122,
+   "thr": -1.7595439254974836,
+   "auc_test": 0.5004125904716455
+  },
+  "docqe": {
+   "cer": 0.21281369453215887,
+   "doc_cer": 0.21127014871475,
+   "corrupt": 0,
+   "harm_rate": 0.0,
+   "accept_rate_attempted": 0.0,
+   "num_broken": 0,
+   "num_fixed": 0,
+   "cap_broken": 0,
+   "cap_fixed": 0,
+   "thr": Infinity,
+   "auc_test": 0.5
+  },
+  "edit_cap": {
+   "cer": 0.1976898786770816,
+   "doc_cer": 0.1952824923672893,
+   "corrupt": 145,
+   "harm_rate": 0.17119244391971664,
+   "accept_rate_attempted": 0.9815384615384616,
+   "num_broken": 3,
+   "num_fixed": 2,
+   "cap_broken": 35,
+   "cap_fixed": 131,
+   "thr": -4.001098901098898,
+   "auc_test": 0.49636622126779606
+  },
+  "conf_mean": {
+   "cer": 0.2372112348346352,
+   "doc_cer": 0.23187026033288466,
+   "corrupt": 145,
+   "harm_rate": 0.17119244391971664,
+   "accept_rate_attempted": 0.9492307692307692,
+   "num_broken": 4,
+   "num_fixed": 2,
+   "cap_broken": 44,
+   "cap_fixed": 127,
+   "thr": -0.1720741295814514,
+   "auc_test": 0.5474628171478565
+  },
+  "conf_min": {
+   "cer": 0.2092571048695363,
+   "doc_cer": 0.20772463149601128,
+   "corrupt": 33,
+   "harm_rate": 0.03896103896103896,
+   "accept_rate_attempted": 0.30923076923076925,
+   "num_broken": 0,
+   "num_fixed": 0,
+   "cap_broken": 3,
+   "cap_fixed": 34,
+   "thr": -0.43649770021438533,
+   "auc_test": 0.5491827726079694
+  },
+  "kim_min095": {
+   "cer": 0.21261425959780622,
+   "doc_cer": 0.2110731755359312,
+   "corrupt": 1,
+   "harm_rate": 0.0011806375442739079,
+   "accept_rate_attempted": 0.015384615384615385,
+   "num_broken": 0,
+   "num_fixed": 0,
+   "cap_broken": 0,
+   "cap_fixed": 1,
+   "thr": -0.05129329438755058,
+   "note": "fixed, untuned"
+  },
+  "conf_plus_cap": {
+   "cer": 0.19886986870533488,
+   "doc_cer": 0.19715373756606808,
+   "corrupt": 137,
+   "harm_rate": 0.1617473435655254,
+   "accept_rate_attempted": 0.9523076923076923,
+   "num_broken": 3,
+   "num_fixed": 2,
+   "cap_broken": 30,
+   "cap_fixed": 127,
+   "min_lp_thr": -2.3787360191345215,
+   "max_edit_density": 0.41512186443693283
+  },
+  "random_matched": {
+   "cer": 0.24137512944094297,
+   "accept_rate_attempted": 0.5969230769230769,
+   "note": "expected value at router_conf acceptance rate"
+  }
+ },
+ "bootstrap": {
+  "router_text": {
+   "never": {
+    "delta": 0.011766661126807354,
+    "ci95": [
+     0.005095268098801601,
+     0.019824789201653866
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "always": {
+    "delta": 0.059614425793584835,
+    "ci95": [
+     0.012878036486787703,
+     0.11015131574350936
+    ],
+    "p_two_sided": 0.004399560043995601,
+    "p_holm": 0.026397360263973605
+   },
+   "router_align": {
+    "delta": -0.0014957620076450073,
+    "ci95": [
+     -0.0027173540516152693,
+     -0.0003552849279232518
+    ],
+    "p_two_sided": 0.008599140085991401,
+    "p_holm": 0.042995700429957005
+   },
+   "router_nodict": {
+    "delta": 0.004237992354994169,
+    "ci95": [
+     0.0016274419457175623,
+     0.007088615524849659
+    ],
+    "p_two_sided": 0.0007999200079992001,
+    "p_holm": 0.006399360063993601
+   },
+   "errdet_ocr_only": {
+    "delta": 0.010254279541299649,
+    "ci95": [
+     0.00475870100054143,
+     0.016555313264867987
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "router_conf": {
+    "delta": -0.0020608276549775872,
+    "ci95": [
+     -0.004310637121530698,
+     -1.7797009946467335e-05
+    ],
+    "p_two_sided": 0.048595140485951406,
+    "p_holm": 0.09719028097190281
+   },
+   "router_util": {
+    "delta": -0.0028751869702509647,
+    "ci95": [
+     -0.004590776282796951,
+     -0.0011289336881406195
+    ],
+    "p_two_sided": 0.0021997800219978004,
+    "p_holm": 0.015398460153984602
+   },
+   "docqe": {
+    "delta": 0.011766661126807354,
+    "ci95": [
+     0.005095268098801601,
+     0.019824789201653866
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "edit_cap": {
+    "delta": -0.0033571547282699177,
+    "ci95": [
+     -0.00498364383529905,
+     -0.0017455607236144055
+    ],
+    "p_two_sided": 0.00039996000399960006,
+    "p_holm": 0.0035996400359964006
+   },
+   "conf_mean": {
+    "delta": 0.03616420142928367,
+    "ci95": [
+     0.003446089407893273,
+     0.0797534033234442
+    ],
+    "p_two_sided": 0.021397860213978603,
+    "p_holm": 0.06419358064193581
+   },
+   "conf_min": {
+    "delta": 0.008210071464184787,
+    "ci95": [
+     0.001584735459859961,
+     0.016305172994720268
+    ],
+    "p_two_sided": 0.012998700129987,
+    "p_holm": 0.051994800519948
+   },
+   "kim_min095": {
+    "delta": 0.011567226192454705,
+    "ci95": [
+     0.0048796567963818,
+     0.019607427092698273
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "conf_plus_cap": {
+    "delta": -0.002177164700016637,
+    "ci95": [
+     -0.005565323594622173,
+     0.0017071044740044321
+    ],
+    "p_two_sided": 0.24497550244975502,
+    "p_holm": 0.24497550244975502
+   }
+  },
+  "router_conf": {
+   "never": {
+    "delta": 0.013827488781784941,
+    "ci95": [
+     0.007679785946658209,
+     0.02142132374255845
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "always": {
+    "delta": 0.06167525344856242,
+    "ci95": [
+     0.01515245303848224,
+     0.11200659856322437
+    ],
+    "p_two_sided": 0.003999600039996,
+    "p_holm": 0.027997200279972004
+   },
+   "router_text": {
+    "delta": 0.0020608276549775872,
+    "ci95": [
+     1.779700994646722e-05,
+     0.004310637121530696
+    ],
+    "p_two_sided": 0.048595140485951406,
+    "p_holm": 0.24297570242975702
+   },
+   "router_align": {
+    "delta": 0.0005650656473325799,
+    "ci95": [
+     -0.0011836829366706817,
+     0.002436595223217272
+    ],
+    "p_two_sided": 0.5673432656734326,
+    "p_holm": 1.0
+   },
+   "router_nodict": {
+    "delta": 0.006298820009971756,
+    "ci95": [
+     0.004189384294329378,
+     0.00871791643315024
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "errdet_ocr_only": {
+    "delta": 0.012315107196277236,
+    "ci95": [
+     0.007469774539314496,
+     0.018144682690346057
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "router_util": {
+    "delta": -0.0008143593152733775,
+    "ci95": [
+     -0.003189389683928142,
+     0.0017222713904171613
+    ],
+    "p_two_sided": 0.5001499850014999,
+    "p_holm": 1.0
+   },
+   "docqe": {
+    "delta": 0.013827488781784941,
+    "ci95": [
+     0.007679785946658209,
+     0.02142132374255845
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "edit_cap": {
+    "delta": -0.0012963270732923304,
+    "ci95": [
+     -0.0036081511589292235,
+     0.00111562701172075
+    ],
+    "p_two_sided": 0.283971602839716,
+    "p_holm": 1.0
+   },
+   "conf_mean": {
+    "delta": 0.03822502908426126,
+    "ci95": [
+     0.005004683307272662,
+     0.0815023135832176
+    ],
+    "p_two_sided": 0.011198880111988802,
+    "p_holm": 0.06719328067193281
+   },
+   "conf_min": {
+    "delta": 0.010270899119162374,
+    "ci95": [
+     0.00417351688833711,
+     0.01792935478881867
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "kim_min095": {
+    "delta": 0.013628053847432292,
+    "ci95": [
+     0.007499522176469075,
+     0.02122106359498134
+    ],
+    "p_two_sided": 0.00019998000199980003,
+    "p_holm": 0.0025997400259974005
+   },
+   "conf_plus_cap": {
+    "delta": -0.00011633704503904996,
+    "ci95": [
+     -0.0031697609596998584,
+     0.0035009730965367956
+    ],
+    "p_two_sided": 0.9125087491250875,
+    "p_holm": 1.0
+   }
+  }
+ },
+ "devtuned_budget_frontier": {
+  "10pct": {
+   "router_text": {
+    "test_cer": 0.20531826491607114,
+    "test_corrupt": 14,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.14923076923076922,
+    "vs_full": {
+     "delta": -0.0020275884992521087,
+     "ci95": [
+      -0.005314202424578517,
+      0.0005601962336014274
+     ],
+     "p_two_sided": 0.14278572142785723,
+     "p_holm": 0.44475552444755523
+    }
+   },
+   "router_align": {
+    "test_cer": 0.2063985374771481,
+    "test_corrupt": 6,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.11538461538461539,
+    "vs_full": {
+     "delta": -0.0009473159381751528,
+     "ci95": [
+      -0.0019787976036273005,
+      -4.6412837734360935e-05
+     ],
+     "p_two_sided": 0.041195880411958805,
+     "p_holm": 0.20597940205979404
+    }
+   },
+   "router_nodict": {
+    "test_cer": 0.20973907262755526,
+    "test_corrupt": 7,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.07076923076923076,
+    "vs_full": {
+     "delta": 0.0023932192122320117,
+     "ci95": [
+      0.00021551747490005104,
+      0.00523979555193991
+     ],
+     "p_two_sided": 0.027597240275972403,
+     "p_holm": 0.1655834416558344
+    }
+   },
+   "router_conf": {
+    "test_cer": 0.20734585341532324,
+    "test_corrupt": 4,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.09692307692307692
+   },
+   "router_util": {
+    "test_cer": 0.2113345521023766,
+    "test_corrupt": 19,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.08923076923076922,
+    "vs_full": {
+     "delta": 0.003988698687053344,
+     "ci95": [
+      -0.0007200937130588641,
+      0.009637461052523574
+     ],
+     "p_two_sided": 0.11118888111188881,
+     "p_holm": 0.44475552444755523
+    }
+   },
+   "edit_cap": {
+    "test_cer": 0.21218215057337544,
+    "test_corrupt": 24,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.1523076923076923,
+    "vs_full": {
+     "delta": 0.0048362971580522,
+     "ci95": [
+      0.0007975836911682119,
+      0.01069038671182759
+     ],
+     "p_two_sided": 0.0023997600239976003,
+     "p_holm": 0.016798320167983202
+    }
+   },
+   "conf_mean": {
+    "test_cer": 0.21100216054512216,
+    "test_corrupt": 15,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.15384615384615385,
+    "vs_full": {
+     "delta": 0.003656307129798919,
+     "ci95": [
+      -0.0006375429526662445,
+      0.009597159343131918
+     ],
+     "p_two_sided": 0.1321867813218678,
+     "p_holm": 0.44475552444755523
+    }
+   },
+   "conf_min": {
+    "test_cer": 0.21061991025427954,
+    "test_corrupt": 11,
+    "test_budget": 15,
+    "accept_rate_attempted": 0.16307692307692306,
+    "vs_full": {
+     "delta": 0.0032740568389562907,
+     "ci95": [
+      -0.001104282711484831,
+      0.009244647757343202
+     ],
+     "p_two_sided": 0.19318068193180682,
+     "p_holm": 0.44475552444755523
+    }
+   }
+  },
+  "25pct": {
+   "router_text": {
+    "test_cer": 0.2024596975236829,
+    "test_corrupt": 41,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.36153846153846153,
+    "vs_full": {
+     "delta": -0.0008475984709988282,
+     "ci95": [
+      -0.0035626263153971686,
+      0.0015241459448287517
+     ],
+     "p_two_sided": 0.511948805119488,
+     "p_holm": 0.511948805119488
+    }
+   },
+   "router_align": {
+    "test_cer": 0.20174505567558584,
+    "test_corrupt": 48,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.38769230769230767,
+    "vs_full": {
+     "delta": -0.0015622403190958811,
+     "ci95": [
+      -0.004311059878450735,
+      0.000766214571681376
+     ],
+     "p_two_sided": 0.20737926207379262,
+     "p_holm": 0.4527547245275472
+    }
+   },
+   "router_nodict": {
+    "test_cer": 0.20516868871530664,
+    "test_corrupt": 31,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.24307692307692308,
+    "vs_full": {
+     "delta": 0.0018613927206249103,
+     "ci95": [
+      -0.0007374096753729186,
+      0.004164366480057769
+     ],
+     "p_two_sided": 0.1501849815018498,
+     "p_holm": 0.4527547245275472
+    }
+   },
+   "router_conf": {
+    "test_cer": 0.20330729599468172,
+    "test_corrupt": 34,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.30615384615384617
+   },
+   "router_util": {
+    "test_cer": 0.20631543958783446,
+    "test_corrupt": 55,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.34923076923076923,
+    "vs_full": {
+     "delta": 0.00300814359315274,
+     "ci95": [
+      -0.0005991485378781392,
+      0.007067425472101279
+     ],
+     "p_two_sided": 0.1131886811318868,
+     "p_holm": 0.4527547245275472
+    }
+   },
+   "edit_cap": {
+    "test_cer": 0.21128469336878844,
+    "test_corrupt": 47,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.30923076923076925,
+    "vs_full": {
+     "delta": 0.007977397374106715,
+     "ci95": [
+      0.0023797103712477085,
+      0.015171385990190944
+     ],
+     "p_two_sided": 0.0007999200079992001,
+     "p_holm": 0.005599440055994401
+    }
+   },
+   "conf_mean": {
+    "test_cer": 0.21003822502908426,
+    "test_corrupt": 36,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.2907692307692308,
+    "vs_full": {
+     "delta": 0.006730929034402533,
+     "ci95": [
+      0.001014582585079649,
+      0.014042614130855698
+     ],
+     "p_two_sided": 0.014598540145985401,
+     "p_holm": 0.08759124087591241
+    }
+   },
+   "conf_min": {
+    "test_cer": 0.20914076782449725,
+    "test_corrupt": 36,
+    "test_budget": 39,
+    "accept_rate_attempted": 0.31846153846153846,
+    "vs_full": {
+     "delta": 0.005833471829815529,
+     "ci95": [
+      0.00032287949289655786,
+      0.01302963333734493
+     ],
+     "p_two_sided": 0.0341965803419658,
+     "p_holm": 0.170982901709829
+    }
+   }
+  },
+  "50pct": {
+   "router_text": {
+    "test_cer": 0.2008143593152734,
+    "test_corrupt": 76,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.5292307692307693,
+    "vs_full": {
+     "delta": 0.0014292836961941058,
+     "ci95": [
+      -0.0005130013969523686,
+      0.003644424513328377
+     ],
+     "p_two_sided": 0.1745825417458254,
+     "p_holm": 0.3491650834916508
+    }
+   },
+   "router_align": {
+    "test_cer": 0.19960113013129466,
+    "test_corrupt": 88,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.6292307692307693,
+    "vs_full": {
+     "delta": 0.00021605451221537453,
+     "ci95": [
+      -0.0014550035593737284,
+      0.002048399292582945
+     ],
+     "p_two_sided": 0.8465153484651535,
+     "p_holm": 0.8465153484651535
+    }
+   },
+   "router_nodict": {
+    "test_cer": 0.20516868871530664,
+    "test_corrupt": 31,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.24307692307692308,
+    "vs_full": {
+     "delta": 0.005783613096227352,
+     "ci95": [
+      0.0038047673788429957,
+      0.008048331162869135
+     ],
+     "p_two_sided": 0.00019998000199980003,
+     "p_holm": 0.0013998600139986002
+    }
+   },
+   "router_conf": {
+    "test_cer": 0.19938507561907928,
+    "test_corrupt": 72,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.56
+   },
+   "router_util": {
+    "test_cer": 0.20209406681070302,
+    "test_corrupt": 110,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.7430769230769231,
+    "vs_full": {
+     "delta": 0.0027089911916237386,
+     "ci95": [
+      -0.00035006930512604455,
+      0.006450292062654844
+     ],
+     "p_two_sided": 0.09459054094590541,
+     "p_holm": 0.28377162283771623
+    }
+   },
+   "edit_cap": {
+    "test_cer": 0.20919062655808543,
+    "test_corrupt": 71,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.5215384615384615,
+    "vs_full": {
+     "delta": 0.009805550939006147,
+     "ci95": [
+      0.003548505160912469,
+      0.01752377922581706
+     ],
+     "p_two_sided": 0.0005999400059994001,
+     "p_holm": 0.0029997000299970002
+    }
+   },
+   "conf_mean": {
+    "test_cer": 0.20591656971912914,
+    "test_corrupt": 86,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.6169230769230769,
+    "vs_full": {
+     "delta": 0.006531494100049856,
+     "ci95": [
+      0.00030248190240236015,
+      0.014385808394838405
+     ],
+     "p_two_sided": 0.037396260373962605,
+     "p_holm": 0.14958504149585042
+    }
+   },
+   "conf_min": {
+    "test_cer": 0.20914076782449725,
+    "test_corrupt": 36,
+    "test_budget": 78,
+    "accept_rate_attempted": 0.31846153846153846,
+    "vs_full": {
+     "delta": 0.00975569220541797,
+     "ci95": [
+      0.003625632962797972,
+      0.017441200295746122
+     ],
+     "p_two_sided": 0.00039996000399960006,
+     "p_holm": 0.0023997600239976003
+    }
+   }
+  }
+ },
+ "rank_mean_cer_over_harm": {
+  "router_text": 0.20082245872980148,
+  "router_align": 0.20049006717254697,
+  "router_nodict": 0.20117104911611194,
+  "errdet_ocr_only": 0.20768760663352565,
+  "router_conf": 0.20010529238886451,
+  "router_util": 0.20475309408153694,
+  "docqe": 0.2090173832369468,
+  "edit_cap": 0.2068589418588261,
+  "conf_mean": 0.2073098793923546,
+  "conf_min": 0.20925983973677956
+ },
+ "risk_control": {
+  "always_test_risk": 0.17633539666434153,
+  "alpha0.02": {
+   "edit_cap": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "conf_min": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "router_conf": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   }
+  },
+  "alpha0.05": {
+   "edit_cap": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "conf_min": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "router_conf": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   }
+  },
+  "alpha0.1": {
+   "edit_cap": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "conf_min": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   },
+   "router_conf": {
+    "test_risk_mean": 0.0,
+    "violation_frac": 0.0,
+    "test_cer_mean": 0.21281369453215887,
+    "accept_rate_mean": 0.0,
+    "n_cal_docs": 13
+   }
+  }
+ },
+ "protocol": "learned policies cross-fitted (5-fold doc-grouped OOF) on dev; thresholds on dev quantile grid incl. abstain; single test eval; micro CER; paired doc bootstrap B=10000, p=(k+1)/(B+1); Holm; LTT with doc-level Hoeffding-Bentkus, delta=0.10"
+}

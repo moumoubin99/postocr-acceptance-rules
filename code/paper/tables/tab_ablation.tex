@@ -1,0 +1,18 @@
+\begin{tabular}{lrrcccc}
+\toprule
+Alternative rule & $n$ & Mean CER & \multicolumn{4}{c}{Full router better / worse / n.s.\ (Holm across configurations)} \\
+ & & & CER-opt. & 10\% & 25\% & 50\% \\
+\midrule
+Text features only (13) & 26 & 0.1092 & 2/0/24 & 11/0/15 & 11/0/15 & 6/0/20 \\
++ aligned token-diff features & 23 & 0.1155 & 1/0/22 & 11/1/11 & 9/0/14 & 6/0/17 \\
+Dictionary-free & 26 & 0.1088 & 0/1/25 & 9/0/17 & 8/1/17 & 6/0/20 \\
+Full + QE-encoder score & 3 & 0.1013 & 0/0/3 & 1/1/1 & 0/2/1 & 0/0/3 \\
+Utility-regression target & 26 & 0.1093 & 6/1/19 & 15/1/10 & 14/1/11 & 11/0/15 \\
+OCR-only error detector & 26 & 0.1162 & 15/1/10 & — & — & — \\
+Document-level QE & 26 & 0.1159 & 12/0/14 & — & — & — \\
+Trained QE encoder & 3 & 0.1049 & 2/0/1 & 2/0/1 & 3/0/0 & 3/0/0 \\
+Mean-token confidence & 23 & 0.1178 & 7/0/16 & 12/2/9 & 10/2/11 & 10/1/12 \\
+Confidence + cap & 23 & 0.1145 & 5/1/17 & — & — & — \\
+Min-confidence $\ge 0.95$ (fixed) & 23 & 0.1318 & 18/0/5 & — & — & — \\
+\bottomrule
+\end{tabular}

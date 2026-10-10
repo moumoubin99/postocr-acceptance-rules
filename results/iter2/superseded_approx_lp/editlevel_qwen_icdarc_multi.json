@@ -1,0 +1,316 @@
+{
+ "dataset": "icdarc_multi",
+ "corrector": "qwen",
+ "full_router": "router_conf",
+ "n_test": 8852,
+ "n_test_docs": 301,
+ "policies": {
+  "never": {
+   "cer": 0.2677546181712704,
+   "corrupt": 0,
+   "improved": 0
+  },
+  "always": {
+   "cer": 0.2919655327883066,
+   "corrupt": 5029,
+   "improved": 1832
+  },
+  "oracle_seg": {
+   "cer": 0.2610516093842123,
+   "corrupt": 0,
+   "improved": 1832
+  },
+  "oracle_edit": {
+   "cer": 0.2542209092256228,
+   "corrupt": 0,
+   "improved": 3988
+  },
+  "seg_router_conf": {
+   "cer": 0.26695694120837027,
+   "corrupt": 78,
+   "improved": 172,
+   "thr": 0.5334739898014859
+  },
+  "seg_edit_cap": {
+   "cer": 0.2677546181712704,
+   "corrupt": 0,
+   "improved": 0,
+   "thr": Infinity
+  },
+  "seg_conf_min": {
+   "cer": 0.2677546181712704,
+   "corrupt": 0,
+   "improved": 0,
+   "thr": -6.878139538457617e-05
+  },
+  "edit_router": {
+   "cer": 0.26473258904502617,
+   "corrupt": 674,
+   "improved": 1592,
+   "thr": 0.38219302635399655,
+   "edit_accept_rate": 0.2144703994293866
+  },
+  "edit_size": {
+   "cer": 0.2677546181712704,
+   "corrupt": 0,
+   "improved": 0,
+   "thr": Infinity,
+   "edit_accept_rate": 0.0
+  },
+  "cascade": {
+   "cer": 0.26472943617165506,
+   "corrupt": 674,
+   "improved": 1593,
+   "seg_thr": 0.9008652342939739,
+   "edit_thr": 0.38219302635399655
+  }
+ },
+ "bootstrap": {
+  "seg_router_conf": {
+   "edit_router": {
+    "delta": -0.002224352163344101,
+    "ci95": [
+     -0.002872207938125393,
+     -0.0016073536409706131
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "edit_size": {
+    "delta": 0.0007976769629001179,
+    "ci95": [
+     0.000373133138171082,
+     0.0013133023598458137
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "cascade": {
+    "delta": -0.002227505036715205,
+    "ci95": [
+     -0.002878382460971591,
+     -0.001612394919208532
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   }
+  },
+  "seg_edit_cap": {
+   "edit_router": {
+    "delta": -0.003022029126244219,
+    "ci95": [
+     -0.003903626094878472,
+     -0.0022396226179549382
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   },
+   "edit_size": {
+    "delta": 0.0,
+    "ci95": [
+     0.0,
+     0.0
+    ],
+    "p_two_sided": 1.0,
+    "p_holm": 1.0
+   },
+   "cascade": {
+    "delta": -0.003025181999615323,
+    "ci95": [
+     -0.003903626094878472,
+     -0.002243689430667025
+    ],
+    "p_two_sided": 0.0,
+    "p_holm": 0
+   }
+  }
+ },
+ "devtuned_budget_frontier": {
+  "10pct": {
+   "seg_router_conf": {
+    "test_cer": 0.26695694120837027,
+    "test_corrupt": 78
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "seg_conf_min": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "edit_router": {
+    "test_cer": 0.26492018501060943,
+    "test_corrupt": 572,
+    "vs_seg_router_conf": {
+     "delta": -0.002036756197760836,
+     "ci95": [
+      -0.0026120645273284776,
+      -0.0014741584347403027
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.002834433160660954,
+     "ci95": [
+      -0.003649543954053368,
+      -0.0021066498830957453
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0,
+    "vs_seg_router_conf": {
+     "delta": 0.0007976769629001179,
+     "ci95": [
+      0.000373133138171082,
+      0.0013133023598458137
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "p_two_sided": 1.0,
+     "p_holm": 1.0
+    }
+   }
+  },
+  "25pct": {
+   "seg_router_conf": {
+    "test_cer": 0.26695694120837027,
+    "test_corrupt": 78
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "seg_conf_min": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "edit_router": {
+    "test_cer": 0.26473258904502617,
+    "test_corrupt": 674,
+    "vs_seg_router_conf": {
+     "delta": -0.002224352163344101,
+     "ci95": [
+      -0.002872207938125393,
+      -0.0016073536409706131
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.003022029126244219,
+     "ci95": [
+      -0.003903626094878472,
+      -0.0022396226179549382
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0,
+    "vs_seg_router_conf": {
+     "delta": 0.0007976769629001179,
+     "ci95": [
+      0.000373133138171082,
+      0.0013133023598458137
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "p_two_sided": 1.0,
+     "p_holm": 1.0
+    }
+   }
+  },
+  "50pct": {
+   "seg_router_conf": {
+    "test_cer": 0.26695694120837027,
+    "test_corrupt": 78
+   },
+   "seg_edit_cap": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "seg_conf_min": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0
+   },
+   "edit_router": {
+    "test_cer": 0.26473258904502617,
+    "test_corrupt": 674,
+    "vs_seg_router_conf": {
+     "delta": -0.002224352163344101,
+     "ci95": [
+      -0.002872207938125393,
+      -0.0016073536409706131
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": -0.003022029126244219,
+     "ci95": [
+      -0.003903626094878472,
+      -0.0022396226179549382
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    }
+   },
+   "edit_size": {
+    "test_cer": 0.2677546181712704,
+    "test_corrupt": 0,
+    "vs_seg_router_conf": {
+     "delta": 0.0007976769629001179,
+     "ci95": [
+      0.000373133138171082,
+      0.0013133023598458137
+     ],
+     "p_two_sided": 0.0,
+     "p_holm": 0
+    },
+    "vs_seg_edit_cap": {
+     "delta": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "p_two_sided": 1.0,
+     "p_holm": 1.0
+    }
+   }
+  }
+ },
+ "diagnostics": {
+  "n_edits_test": 22432,
+  "edits_per_attempted_seg": 2.818444528207061,
+  "edit_helpful": 0.27661376604850213,
+  "edit_harmful": 0.5279511412268189,
+  "edit_neutral": 0.19543509272467904,
+  "mixed_segments": 0.34074632491519036,
+  "oracle_exhaustive_rows": 0.9932152280437241,
+  "has_edit_lp": false,
+  "edit_router_auc": 0.7193028034423185
+ },
+ "protocol": "atomic whitespace-delimited edits (character alignment); edit router cross-fitted (5-fold doc-grouped OOF) on dev; thresholds on dev quantile grid incl. abstain; single test eval; micro CER; paired doc bootstrap B=2000; Holm"
+}

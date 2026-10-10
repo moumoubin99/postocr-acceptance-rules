@@ -1,0 +1,19 @@
+\begin{tabular}{llrrrrrl}
+\toprule
+Test set & Lang. & \multicolumn{2}{c}{Dev} & \multicolumn{2}{c}{Test} & OCR CER & Correctors \\
+ & & docs & segs & docs & segs & (test) & \\
+\midrule
+BLN600 & en & 96 & 3883 & 102 & 3884 & 0.0714 & SymSpell, ByT5-small, ByT5-base, Qwen2.5-7B, Qwen2.5-7B+ctx \\
+BLN600-w50 & en & 96 & 1037 & 102 & 1029 & 0.0711 & Qwen2.5-7B \\
+BLN600-w100 & en & 96 & 544 & 102 & 542 & 0.0711 & Qwen2.5-7B \\
+BLN600-legacy & en & 96 & 3970 & 102 & 3960 & 0.0752 & ByT5-base, Qwen2.5-7B \\
+ICDAR-EN & en & 25 & 518 & 47 & 847 & 0.2128 & ByT5-small, ByT5-base, ByT5-base-ML, Qwen2.5-7B \\
+ICDAR-DE & de & 60 & 1265 & 80 & 1688 & 0.2562 & ByT5-base-ML \\
+ICDAR-FR & fr & 60 & 1674 & 77 & 1676 & 0.0653 & ByT5-base-ML \\
+ICDAR-ES & es & 29 & 1087 & 48 & 1768 & 0.4098 & ByT5-base-ML \\
+ICDAR-NL & nl & 29 & 1496 & 49 & 2873 & 0.3224 & ByT5-base-ML \\
+ICDAR-multi & en,de,fr,es,nl & 203 & 6040 & 301 & 8852 & 0.2678 & Qwen2.5-7B \\
+impresso & en & 10 & 73 & 100 & 816 & 0.0243 & SymSpell, ByT5-small, ByT5-base, Qwen2.5-7B \\
+Overproof & en & 30 & 881 & 32 & 943 & 0.0902 & SymSpell, ByT5-small, ByT5-base, Qwen2.5-7B \\
+\bottomrule
+\end{tabular}
